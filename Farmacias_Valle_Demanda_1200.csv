@@ -1,0 +1,1201 @@
+﻿Mes,Producto_ID,Producto_Nombre,Categoria,Unidades_Vendidas, Precio_Promedio , Ingreso_Mensual ,Stock_Disponible,Promocion,Temporada
+2020-01,P001,Paracetamol 500mg,Analgesico,1163, $35.00 ," $40,705.00 ",2285,0,Alta
+2020-02,P001,Paracetamol 500mg,Analgesico,1180, $35.12 ," $41,441.60 ",1662,0,Alta
+2020-03,P001,Paracetamol 500mg,Analgesico,943, $35.23 ," $33,221.89 ",1797,0,Media
+2020-04,P001,Paracetamol 500mg,Analgesico,1004, $35.35 ," $35,491.40 ",1319,0,Baja
+2020-05,P001,Paracetamol 500mg,Analgesico,981, $35.47 ," $34,796.07 ",1421,0,Baja
+2020-06,P001,Paracetamol 500mg,Analgesico,888, $35.58 ," $31,595.04 ",1343,0,Baja
+2020-07,P001,Paracetamol 500mg,Analgesico,998, $35.70 ," $35,628.60 ",1500,0,Media
+2020-08,P001,Paracetamol 500mg,Analgesico,929, $35.82 ," $33,276.78 ",1397,0,Media
+2020-09,P001,Paracetamol 500mg,Analgesico,1009, $35.93 ," $36,253.37 ",1866,0,Media
+2020-10,P001,Paracetamol 500mg,Analgesico,1077, $36.05 ," $38,825.85 ",1846,1,Media
+2020-11,P001,Paracetamol 500mg,Analgesico,1209, $36.17 ," $43,729.53 ",1716,1,Alta
+2020-12,P001,Paracetamol 500mg,Analgesico,1422, $36.28 ," $51,590.16 ",2809,0,Alta
+2021-01,P001,Paracetamol 500mg,Analgesico,1178, $36.40 ," $42,879.20 ",1611,0,Alta
+2021-02,P001,Paracetamol 500mg,Analgesico,1170, $36.52 ," $42,728.40 ",1620,0,Alta
+2021-03,P001,Paracetamol 500mg,Analgesico,965, $36.63 ," $35,347.95 ",1868,0,Media
+2021-04,P001,Paracetamol 500mg,Analgesico,1024, $36.75 ," $37,632.00 ",1554,0,Baja
+2021-05,P001,Paracetamol 500mg,Analgesico,946, $36.87 ," $34,879.02 ",1352,0,Baja
+2021-06,P001,Paracetamol 500mg,Analgesico,1055, $36.98 ," $39,013.90 ",2065,0,Baja
+2021-07,P001,Paracetamol 500mg,Analgesico,1069, $37.10 ," $39,659.90 ",2079,1,Media
+2021-08,P001,Paracetamol 500mg,Analgesico,971, $37.22 ," $36,140.62 ",1293,0,Media
+2021-09,P001,Paracetamol 500mg,Analgesico,1021, $37.33 ," $38,113.93 ",1521,0,Media
+2021-10,P001,Paracetamol 500mg,Analgesico,1067, $37.45 ," $39,959.15 ",1596,0,Media
+2021-11,P001,Paracetamol 500mg,Analgesico,1108, $37.57 ," $41,627.56 ",2062,1,Alta
+2021-12,P001,Paracetamol 500mg,Analgesico,1476, $37.68 ," $55,615.68 ",2716,0,Alta
+2022-01,P001,Paracetamol 500mg,Analgesico,1121, $37.80 ," $42,373.80 ",2097,0,Alta
+2022-02,P001,Paracetamol 500mg,Analgesico,1289, $37.92 ," $48,878.88 ",2371,1,Alta
+2022-03,P001,Paracetamol 500mg,Analgesico,1080, $38.03 ," $41,072.40 ",1491,0,Media
+2022-04,P001,Paracetamol 500mg,Analgesico,1044, $38.15 ," $39,828.60 ",1599,1,Baja
+2022-05,P001,Paracetamol 500mg,Analgesico,919, $38.27 ," $35,170.13 ",1403,0,Baja
+2022-06,P001,Paracetamol 500mg,Analgesico,1052, $38.38 ," $40,375.76 ",2020,0,Baja
+2022-07,P001,Paracetamol 500mg,Analgesico,976, $38.50 ," $37,576.00 ",1756,0,Media
+2022-08,P001,Paracetamol 500mg,Analgesico,1093, $38.62 ," $42,211.66 ",2010,0,Media
+2022-09,P001,Paracetamol 500mg,Analgesico,1085, $38.73 ," $42,022.05 ",1735,1,Media
+2022-10,P001,Paracetamol 500mg,Analgesico,1029, $38.85 ," $39,976.65 ",1360,0,Media
+2022-11,P001,Paracetamol 500mg,Analgesico,1192, $38.97 ," $46,452.24 ",1973,0,Alta
+2022-12,P001,Paracetamol 500mg,Analgesico,1277, $39.08 ," $49,905.16 ",2026,0,Alta
+2023-01,P001,Paracetamol 500mg,Analgesico,1222, $39.20 ," $47,902.40 ",1654,0,Alta
+2023-02,P001,Paracetamol 500mg,Analgesico,1154, $39.32 ," $45,375.28 ",2251,0,Alta
+2023-03,P001,Paracetamol 500mg,Analgesico,1186, $39.43 ," $46,763.98 ",2265,0,Media
+2023-04,P001,Paracetamol 500mg,Analgesico,964, $39.55 ," $38,126.20 ",1855,0,Baja
+2023-05,P001,Paracetamol 500mg,Analgesico,1063, $39.67 ," $42,169.21 ",2048,0,Baja
+2023-06,P001,Paracetamol 500mg,Analgesico,949, $39.78 ," $37,751.22 ",1385,0,Baja
+2023-07,P001,Paracetamol 500mg,Analgesico,1189, $39.90 ," $47,441.10 ",2262,1,Media
+2023-08,P001,Paracetamol 500mg,Analgesico,1110, $40.02 ," $44,422.20 ",1767,0,Media
+2023-09,P001,Paracetamol 500mg,Analgesico,1008, $40.13 ," $40,451.04 ",1548,0,Media
+2023-10,P001,Paracetamol 500mg,Analgesico,1118, $40.25 ," $44,999.50 ",1859,0,Media
+2023-11,P001,Paracetamol 500mg,Analgesico,1240, $40.37 ," $50,058.80 ",2455,0,Alta
+2023-12,P001,Paracetamol 500mg,Analgesico,1313, $40.48 ," $53,150.24 ",2163,0,Alta
+2024-01,P001,Paracetamol 500mg,Analgesico,1274, $40.60 ," $51,724.40 ",1689,0,Alta
+2024-02,P001,Paracetamol 500mg,Analgesico,1291, $40.72 ," $52,569.52 ",1724,0,Alta
+2024-03,P001,Paracetamol 500mg,Analgesico,1296, $40.83 ," $52,915.68 ",1902,1,Media
+2024-04,P001,Paracetamol 500mg,Analgesico,1068, $40.95 ," $43,734.60 ",2125,0,Baja
+2024-05,P001,Paracetamol 500mg,Analgesico,1059, $41.07 ," $43,493.13 ",1941,0,Baja
+2024-06,P001,Paracetamol 500mg,Analgesico,1134, $41.18 ," $46,698.12 ",1766,0,Baja
+2024-07,P001,Paracetamol 500mg,Analgesico,1171, $41.30 ," $48,362.30 ",1961,1,Media
+2024-08,P001,Paracetamol 500mg,Analgesico,1229, $41.42 ," $50,905.18 ",1873,0,Media
+2024-09,P001,Paracetamol 500mg,Analgesico,1014, $41.53 ," $42,111.42 ",1737,0,Media
+2024-10,P001,Paracetamol 500mg,Analgesico,1060, $41.65 ," $44,149.00 ",1757,0,Media
+2024-11,P001,Paracetamol 500mg,Analgesico,1362, $41.77 ," $56,890.74 ",1936,0,Alta
+2024-12,P001,Paracetamol 500mg,Analgesico,1395, $41.88 ," $58,422.60 ",2728,1,Alta
+2020-01,P002,Ibuprofeno 400mg,Antiinflamatorio,831, $45.00 ," $37,395.00 ",1146,0,Media
+2020-02,P002,Ibuprofeno 400mg,Antiinflamatorio,927, $45.15 ," $41,854.05 ",1372,0,Media
+2020-03,P002,Ibuprofeno 400mg,Antiinflamatorio,882, $45.30 ," $39,954.60 ",1489,0,Media
+2020-04,P002,Ibuprofeno 400mg,Antiinflamatorio,740, $45.45 ," $33,633.00 ",1010,0,Media
+2020-05,P002,Ibuprofeno 400mg,Antiinflamatorio,850, $45.60 ," $38,760.00 ",1481,0,Media
+2020-06,P002,Ibuprofeno 400mg,Antiinflamatorio,765, $45.75 ," $34,998.75 ",1383,0,Media
+2020-07,P002,Ibuprofeno 400mg,Antiinflamatorio,887, $45.90 ," $40,713.30 ",1637,0,Media
+2020-08,P002,Ibuprofeno 400mg,Antiinflamatorio,732, $46.05 ," $33,708.60 ",1034,0,Media
+2020-09,P002,Ibuprofeno 400mg,Antiinflamatorio,836, $46.20 ," $38,623.20 ",1092,1,Media
+2020-10,P002,Ibuprofeno 400mg,Antiinflamatorio,867, $46.35 ," $40,185.45 ",1130,0,Media
+2020-11,P002,Ibuprofeno 400mg,Antiinflamatorio,879, $46.50 ," $40,873.50 ",1568,0,Media
+2020-12,P002,Ibuprofeno 400mg,Antiinflamatorio,844, $46.65 ," $39,372.60 ",1517,0,Alta
+2021-01,P002,Ibuprofeno 400mg,Antiinflamatorio,852, $46.80 ," $39,873.60 ",1552,0,Media
+2021-02,P002,Ibuprofeno 400mg,Antiinflamatorio,948, $46.95 ," $44,508.60 ",1668,0,Media
+2021-03,P002,Ibuprofeno 400mg,Antiinflamatorio,762, $47.10 ," $35,890.20 ",1186,0,Media
+2021-04,P002,Ibuprofeno 400mg,Antiinflamatorio,763, $47.25 ," $36,051.75 ",1511,0,Media
+2021-05,P002,Ibuprofeno 400mg,Antiinflamatorio,873, $47.40 ," $41,380.20 ",1520,0,Media
+2021-06,P002,Ibuprofeno 400mg,Antiinflamatorio,817, $47.55 ," $38,848.35 ",1392,0,Media
+2021-07,P002,Ibuprofeno 400mg,Antiinflamatorio,774, $47.70 ," $36,919.80 ",1397,0,Media
+2021-08,P002,Ibuprofeno 400mg,Antiinflamatorio,742, $47.85 ," $35,504.70 ",1299,0,Media
+2021-09,P002,Ibuprofeno 400mg,Antiinflamatorio,928, $48.00 ," $44,544.00 ",1826,0,Media
+2021-10,P002,Ibuprofeno 400mg,Antiinflamatorio,832, $48.15 ," $40,060.80 ",1090,0,Media
+2021-11,P002,Ibuprofeno 400mg,Antiinflamatorio,879, $48.30 ," $42,455.70 ",1737,0,Media
+2021-12,P002,Ibuprofeno 400mg,Antiinflamatorio,1009, $48.45 ," $48,886.05 ",1519,0,Alta
+2022-01,P002,Ibuprofeno 400mg,Antiinflamatorio,993, $48.60 ," $48,259.80 ",1511,0,Media
+2022-02,P002,Ibuprofeno 400mg,Antiinflamatorio,913, $48.75 ," $44,508.75 ",1785,0,Media
+2022-03,P002,Ibuprofeno 400mg,Antiinflamatorio,883, $48.90 ," $43,178.70 ",1207,0,Media
+2022-04,P002,Ibuprofeno 400mg,Antiinflamatorio,935, $49.05 ," $45,861.75 ",1307,0,Media
+2022-05,P002,Ibuprofeno 400mg,Antiinflamatorio,896, $49.20 ," $44,083.20 ",1629,0,Media
+2022-06,P002,Ibuprofeno 400mg,Antiinflamatorio,881, $49.35 ," $43,477.35 ",1366,0,Media
+2022-07,P002,Ibuprofeno 400mg,Antiinflamatorio,923, $49.50 ," $45,688.50 ",1723,0,Media
+2022-08,P002,Ibuprofeno 400mg,Antiinflamatorio,947, $49.65 ," $47,018.55 ",1570,0,Media
+2022-09,P002,Ibuprofeno 400mg,Antiinflamatorio,925, $49.80 ," $46,065.00 ",1623,0,Media
+2022-10,P002,Ibuprofeno 400mg,Antiinflamatorio,946, $49.95 ," $47,252.70 ",1819,0,Media
+2022-11,P002,Ibuprofeno 400mg,Antiinflamatorio,892, $50.10 ," $44,689.20 ",1218,0,Media
+2022-12,P002,Ibuprofeno 400mg,Antiinflamatorio,850, $50.25 ," $42,712.50 ",1382,0,Alta
+2023-01,P002,Ibuprofeno 400mg,Antiinflamatorio,893, $50.40 ," $45,007.20 ",1530,1,Media
+2023-02,P002,Ibuprofeno 400mg,Antiinflamatorio,823, $50.55 ," $41,602.65 ",1543,0,Media
+2023-03,P002,Ibuprofeno 400mg,Antiinflamatorio,813, $50.70 ," $41,219.10 ",1354,0,Media
+2023-04,P002,Ibuprofeno 400mg,Antiinflamatorio,801, $50.85 ," $40,730.85 ",1390,1,Media
+2023-05,P002,Ibuprofeno 400mg,Antiinflamatorio,753, $51.00 ," $38,403.00 ",1258,0,Media
+2023-06,P002,Ibuprofeno 400mg,Antiinflamatorio,892, $51.15 ," $45,625.80 ",1612,0,Media
+2023-07,P002,Ibuprofeno 400mg,Antiinflamatorio,887, $51.30 ," $45,503.10 ",1353,0,Media
+2023-08,P002,Ibuprofeno 400mg,Antiinflamatorio,837, $51.45 ," $43,063.65 ",1345,1,Media
+2023-09,P002,Ibuprofeno 400mg,Antiinflamatorio,786, $51.60 ," $40,557.60 ",1551,0,Media
+2023-10,P002,Ibuprofeno 400mg,Antiinflamatorio,950, $51.75 ," $49,162.50 ",1506,0,Media
+2023-11,P002,Ibuprofeno 400mg,Antiinflamatorio,867, $51.90 ," $44,997.30 ",1278,0,Media
+2023-12,P002,Ibuprofeno 400mg,Antiinflamatorio,1034, $52.05 ," $53,819.70 ",1822,0,Alta
+2024-01,P002,Ibuprofeno 400mg,Antiinflamatorio,1073, $52.20 ," $56,010.60 ",1949,0,Media
+2024-02,P002,Ibuprofeno 400mg,Antiinflamatorio,977, $52.35 ," $51,145.95 ",1557,0,Media
+2024-03,P002,Ibuprofeno 400mg,Antiinflamatorio,886, $52.50 ," $46,515.00 ",1621,1,Media
+2024-04,P002,Ibuprofeno 400mg,Antiinflamatorio,802, $52.65 ," $42,225.30 ",1068,1,Media
+2024-05,P002,Ibuprofeno 400mg,Antiinflamatorio,941, $52.80 ," $49,684.80 ",1686,0,Media
+2024-06,P002,Ibuprofeno 400mg,Antiinflamatorio,802, $52.95 ," $42,465.90 ",1318,0,Media
+2024-07,P002,Ibuprofeno 400mg,Antiinflamatorio,836, $53.10 ," $44,391.60 ",1340,0,Media
+2024-08,P002,Ibuprofeno 400mg,Antiinflamatorio,935, $53.25 ," $49,788.75 ",1631,1,Media
+2024-09,P002,Ibuprofeno 400mg,Antiinflamatorio,884, $53.40 ," $47,205.60 ",1536,0,Media
+2024-10,P002,Ibuprofeno 400mg,Antiinflamatorio,1012, $53.55 ," $54,192.60 ",1782,0,Media
+2024-11,P002,Ibuprofeno 400mg,Antiinflamatorio,870, $53.70 ," $46,719.00 ",1522,1,Media
+2024-12,P002,Ibuprofeno 400mg,Antiinflamatorio,1030, $53.85 ," $55,465.50 ",2016,0,Alta
+2020-01,P003,Amoxicilina 500mg,Antibiotico,642, $80.00 ," $51,360.00 ",1123,0,Alta
+2020-02,P003,Amoxicilina 500mg,Antibiotico,641, $80.27 ," $51,453.07 ",1255,0,Alta
+2020-03,P003,Amoxicilina 500mg,Antibiotico,644, $80.53 ," $51,861.32 ",1245,0,Media
+2020-04,P003,Amoxicilina 500mg,Antibiotico,472, $80.80 ," $38,137.60 ",646,1,Baja
+2020-05,P003,Amoxicilina 500mg,Antibiotico,451, $81.07 ," $36,562.57 ",801,1,Baja
+2020-06,P003,Amoxicilina 500mg,Antibiotico,506, $81.33 ," $41,152.98 ",957,1,Baja
+2020-07,P003,Amoxicilina 500mg,Antibiotico,600, $81.60 ," $48,960.00 ",898,1,Media
+2020-08,P003,Amoxicilina 500mg,Antibiotico,586, $81.87 ," $47,975.82 ",1019,0,Media
+2020-09,P003,Amoxicilina 500mg,Antibiotico,592, $82.13 ," $48,620.96 ",1102,0,Media
+2020-10,P003,Amoxicilina 500mg,Antibiotico,544, $82.40 ," $44,825.60 ",993,0,Media
+2020-11,P003,Amoxicilina 500mg,Antibiotico,724, $82.67 ," $59,853.08 ",1150,0,Alta
+2020-12,P003,Amoxicilina 500mg,Antibiotico,753, $82.93 ," $62,446.29 ",1158,0,Alta
+2021-01,P003,Amoxicilina 500mg,Antibiotico,738, $83.20 ," $61,401.60 ",1181,0,Alta
+2021-02,P003,Amoxicilina 500mg,Antibiotico,692, $83.47 ," $57,761.24 ",949,0,Alta
+2021-03,P003,Amoxicilina 500mg,Antibiotico,598, $83.73 ," $50,070.54 ",1123,0,Media
+2021-04,P003,Amoxicilina 500mg,Antibiotico,593, $84.00 ," $49,812.00 ",932,1,Baja
+2021-05,P003,Amoxicilina 500mg,Antibiotico,564, $84.27 ," $47,528.28 ",769,0,Baja
+2021-06,P003,Amoxicilina 500mg,Antibiotico,603, $84.53 ," $50,971.59 ",1185,0,Baja
+2021-07,P003,Amoxicilina 500mg,Antibiotico,592, $84.80 ," $50,201.60 ",955,0,Media
+2021-08,P003,Amoxicilina 500mg,Antibiotico,552, $85.07 ," $46,958.64 ",977,0,Media
+2021-09,P003,Amoxicilina 500mg,Antibiotico,617, $85.33 ," $52,648.61 ",1143,1,Media
+2021-10,P003,Amoxicilina 500mg,Antibiotico,607, $85.60 ," $51,959.20 ",813,0,Media
+2021-11,P003,Amoxicilina 500mg,Antibiotico,657, $85.87 ," $56,416.59 ",1262,0,Alta
+2021-12,P003,Amoxicilina 500mg,Antibiotico,660, $86.13 ," $56,845.80 ",924,0,Alta
+2022-01,P003,Amoxicilina 500mg,Antibiotico,719, $86.40 ," $62,121.60 ",985,1,Alta
+2022-02,P003,Amoxicilina 500mg,Antibiotico,704, $86.67 ," $61,015.68 ",951,0,Alta
+2022-03,P003,Amoxicilina 500mg,Antibiotico,645, $86.93 ," $56,069.85 ",875,1,Media
+2022-04,P003,Amoxicilina 500mg,Antibiotico,622, $87.20 ," $54,238.40 ",971,0,Baja
+2022-05,P003,Amoxicilina 500mg,Antibiotico,569, $87.47 ," $49,770.43 ",1116,0,Baja
+2022-06,P003,Amoxicilina 500mg,Antibiotico,594, $87.73 ," $52,111.62 ",928,1,Baja
+2022-07,P003,Amoxicilina 500mg,Antibiotico,630, $88.00 ," $55,440.00 ",1065,0,Media
+2022-08,P003,Amoxicilina 500mg,Antibiotico,650, $88.27 ," $57,375.50 ",895,0,Media
+2022-09,P003,Amoxicilina 500mg,Antibiotico,524, $88.53 ," $46,389.72 ",853,1,Media
+2022-10,P003,Amoxicilina 500mg,Antibiotico,567, $88.80 ," $50,349.60 ",783,0,Media
+2022-11,P003,Amoxicilina 500mg,Antibiotico,726, $89.07 ," $64,664.82 ",1240,0,Alta
+2022-12,P003,Amoxicilina 500mg,Antibiotico,725, $89.33 ," $64,764.25 ",1087,0,Alta
+2023-01,P003,Amoxicilina 500mg,Antibiotico,671, $89.60 ," $60,121.60 ",1324,1,Alta
+2023-02,P003,Amoxicilina 500mg,Antibiotico,768, $89.87 ," $69,020.16 ",1021,0,Alta
+2023-03,P003,Amoxicilina 500mg,Antibiotico,636, $90.13 ," $57,322.68 ",1268,1,Media
+2023-04,P003,Amoxicilina 500mg,Antibiotico,580, $90.40 ," $52,432.00 ",1147,0,Baja
+2023-05,P003,Amoxicilina 500mg,Antibiotico,561, $90.67 ," $50,865.87 ",1002,0,Baja
+2023-06,P003,Amoxicilina 500mg,Antibiotico,593, $90.93 ," $53,921.49 ",1013,0,Baja
+2023-07,P003,Amoxicilina 500mg,Antibiotico,541, $91.20 ," $49,339.20 ",809,0,Media
+2023-08,P003,Amoxicilina 500mg,Antibiotico,666, $91.47 ," $60,919.02 ",1078,0,Media
+2023-09,P003,Amoxicilina 500mg,Antibiotico,577, $91.73 ," $52,928.21 ",826,0,Media
+2023-10,P003,Amoxicilina 500mg,Antibiotico,619, $92.00 ," $56,948.00 ",1057,1,Media
+2023-11,P003,Amoxicilina 500mg,Antibiotico,785, $92.27 ," $72,431.95 ",1562,0,Alta
+2023-12,P003,Amoxicilina 500mg,Antibiotico,774, $92.53 ," $71,618.22 ",1173,0,Alta
+2024-01,P003,Amoxicilina 500mg,Antibiotico,771, $92.80 ," $71,548.80 ",1090,0,Alta
+2024-02,P003,Amoxicilina 500mg,Antibiotico,764, $93.07 ," $71,105.48 ",1501,0,Alta
+2024-03,P003,Amoxicilina 500mg,Antibiotico,667, $93.33 ," $62,251.11 ",1062,0,Media
+2024-04,P003,Amoxicilina 500mg,Antibiotico,640, $93.60 ," $59,904.00 ",852,1,Baja
+2024-05,P003,Amoxicilina 500mg,Antibiotico,542, $93.87 ," $50,877.54 ",1012,0,Baja
+2024-06,P003,Amoxicilina 500mg,Antibiotico,542, $94.13 ," $51,018.46 ",930,0,Baja
+2024-07,P003,Amoxicilina 500mg,Antibiotico,694, $94.40 ," $65,513.60 ",1311,0,Media
+2024-08,P003,Amoxicilina 500mg,Antibiotico,620, $94.67 ," $58,695.40 ",986,0,Media
+2024-09,P003,Amoxicilina 500mg,Antibiotico,560, $94.93 ," $53,160.80 ",1066,0,Media
+2024-10,P003,Amoxicilina 500mg,Antibiotico,738, $95.20 ," $70,257.60 ",1474,0,Media
+2024-11,P003,Amoxicilina 500mg,Antibiotico,770, $95.47 ," $73,511.90 ",1510,0,Alta
+2024-12,P003,Amoxicilina 500mg,Antibiotico,741, $95.73 ," $70,935.93 ",1196,1,Alta
+2020-01,P004,Omeprazol 20mg,Cronico,1330, $60.00 ," $79,800.00 ",2293,0,Media
+2020-02,P004,Omeprazol 20mg,Cronico,1252, $60.20 ," $75,370.40 ",2169,0,Media
+2020-03,P004,Omeprazol 20mg,Cronico,1094, $60.40 ," $66,077.60 ",1936,0,Media
+2020-04,P004,Omeprazol 20mg,Cronico,1288, $60.60 ," $78,052.80 ",2143,0,Media
+2020-05,P004,Omeprazol 20mg,Cronico,1227, $60.80 ," $74,601.60 ",2076,0,Media
+2020-06,P004,Omeprazol 20mg,Cronico,1186, $61.00 ," $72,346.00 ",1653,1,Media
+2020-07,P004,Omeprazol 20mg,Cronico,1292, $61.20 ," $79,070.40 ",2240,0,Media
+2020-08,P004,Omeprazol 20mg,Cronico,1136, $61.40 ," $69,750.40 ",1585,1,Media
+2020-09,P004,Omeprazol 20mg,Cronico,1180, $61.60 ," $72,688.00 ",2021,0,Media
+2020-10,P004,Omeprazol 20mg,Cronico,1208, $61.80 ," $74,654.40 ",2334,0,Media
+2020-11,P004,Omeprazol 20mg,Cronico,1234, $62.00 ," $76,508.00 ",2281,0,Media
+2020-12,P004,Omeprazol 20mg,Cronico,1269, $62.20 ," $78,931.80 ",2415,0,Media
+2021-01,P004,Omeprazol 20mg,Cronico,1131, $62.40 ," $70,574.40 ",2203,0,Media
+2021-02,P004,Omeprazol 20mg,Cronico,1167, $62.60 ," $73,054.20 ",1892,0,Media
+2021-03,P004,Omeprazol 20mg,Cronico,1239, $62.80 ," $77,809.20 ",1895,0,Media
+2021-04,P004,Omeprazol 20mg,Cronico,1167, $63.00 ," $73,521.00 ",1579,1,Media
+2021-05,P004,Omeprazol 20mg,Cronico,1136, $63.20 ," $71,795.20 ",1597,1,Media
+2021-06,P004,Omeprazol 20mg,Cronico,1293, $63.40 ," $81,976.20 ",1845,0,Media
+2021-07,P004,Omeprazol 20mg,Cronico,1373, $63.60 ," $87,322.80 ",2240,0,Media
+2021-08,P004,Omeprazol 20mg,Cronico,1158, $63.80 ," $73,880.40 ",1661,1,Media
+2021-09,P004,Omeprazol 20mg,Cronico,1159, $64.00 ," $74,176.00 ",1732,0,Media
+2021-10,P004,Omeprazol 20mg,Cronico,1138, $64.20 ," $73,059.60 ",1575,0,Media
+2021-11,P004,Omeprazol 20mg,Cronico,1176, $64.40 ," $75,734.40 ",1828,0,Media
+2021-12,P004,Omeprazol 20mg,Cronico,1326, $64.60 ," $85,659.60 ",1760,0,Media
+2022-01,P004,Omeprazol 20mg,Cronico,1311, $64.80 ," $84,952.80 ",1779,0,Media
+2022-02,P004,Omeprazol 20mg,Cronico,1403, $65.00 ," $91,195.00 ",1883,0,Media
+2022-03,P004,Omeprazol 20mg,Cronico,1371, $65.20 ," $89,389.20 ",2500,0,Media
+2022-04,P004,Omeprazol 20mg,Cronico,1191, $65.40 ," $77,891.40 ",1857,0,Media
+2022-05,P004,Omeprazol 20mg,Cronico,1320, $65.60 ," $86,592.00 ",2056,0,Media
+2022-06,P004,Omeprazol 20mg,Cronico,1363, $65.80 ," $89,685.40 ",1806,0,Media
+2022-07,P004,Omeprazol 20mg,Cronico,1356, $66.00 ," $89,496.00 ",2612,0,Media
+2022-08,P004,Omeprazol 20mg,Cronico,1302, $66.20 ," $86,192.40 ",1790,0,Media
+2022-09,P004,Omeprazol 20mg,Cronico,1306, $66.40 ," $86,718.40 ",1919,0,Media
+2022-10,P004,Omeprazol 20mg,Cronico,1260, $66.60 ," $83,916.00 ",1655,0,Media
+2022-11,P004,Omeprazol 20mg,Cronico,1211, $66.80 ," $80,894.80 ",1851,1,Media
+2022-12,P004,Omeprazol 20mg,Cronico,1427, $67.00 ," $95,609.00 ",2448,0,Media
+2023-01,P004,Omeprazol 20mg,Cronico,1398, $67.20 ," $93,945.60 ",2305,1,Media
+2023-02,P004,Omeprazol 20mg,Cronico,1322, $67.40 ," $89,102.80 ",2261,0,Media
+2023-03,P004,Omeprazol 20mg,Cronico,1292, $67.60 ," $87,339.20 ",1794,0,Media
+2023-04,P004,Omeprazol 20mg,Cronico,1273, $67.80 ," $86,309.40 ",2230,0,Media
+2023-05,P004,Omeprazol 20mg,Cronico,1274, $68.00 ," $86,632.00 ",2535,0,Media
+2023-06,P004,Omeprazol 20mg,Cronico,1239, $68.20 ," $84,499.80 ",1698,0,Media
+2023-07,P004,Omeprazol 20mg,Cronico,1245, $68.40 ," $85,158.00 ",1758,0,Media
+2023-08,P004,Omeprazol 20mg,Cronico,1260, $68.60 ," $86,436.00 ",1790,0,Media
+2023-09,P004,Omeprazol 20mg,Cronico,1197, $68.80 ," $82,353.60 ",1995,0,Media
+2023-10,P004,Omeprazol 20mg,Cronico,1489, $69.00 ," $102,741.00 ",2052,0,Media
+2023-11,P004,Omeprazol 20mg,Cronico,1488, $69.20 ," $102,969.60 ",2835,0,Media
+2023-12,P004,Omeprazol 20mg,Cronico,1263, $69.40 ," $87,652.20 ",1792,0,Media
+2024-01,P004,Omeprazol 20mg,Cronico,1482, $69.60 ," $103,147.20 ",2504,0,Media
+2024-02,P004,Omeprazol 20mg,Cronico,1275, $69.80 ," $88,995.00 ",2344,0,Media
+2024-03,P004,Omeprazol 20mg,Cronico,1292, $70.00 ," $90,440.00 ",2064,0,Media
+2024-04,P004,Omeprazol 20mg,Cronico,1269, $70.20 ," $89,083.80 ",1751,0,Media
+2024-05,P004,Omeprazol 20mg,Cronico,1287, $70.40 ," $90,604.80 ",2196,0,Media
+2024-06,P004,Omeprazol 20mg,Cronico,1352, $70.60 ," $95,451.20 ",2261,1,Media
+2024-07,P004,Omeprazol 20mg,Cronico,1308, $70.80 ," $92,606.40 ",1823,1,Media
+2024-08,P004,Omeprazol 20mg,Cronico,1525, $71.00 ," $108,275.00 ",2326,0,Media
+2024-09,P004,Omeprazol 20mg,Cronico,1287, $71.20 ," $91,634.40 ",2287,0,Media
+2024-10,P004,Omeprazol 20mg,Cronico,1402, $71.40 ," $100,102.80 ",2285,0,Media
+2024-11,P004,Omeprazol 20mg,Cronico,1324, $71.60 ," $94,798.40 ",2582,0,Media
+2024-12,P004,Omeprazol 20mg,Cronico,1530, $71.80 ," $109,854.00 ",2122,0,Media
+2020-01,P005,Vitamina C 1g,Vitaminas,1989, $25.00 ," $49,725.00 ",2838,1,Alta
+2020-02,P005,Vitamina C 1g,Vitaminas,1829, $25.08 ," $45,871.32 ",3113,0,Alta
+2020-03,P005,Vitamina C 1g,Vitaminas,1446, $25.17 ," $36,395.82 ",2684,0,Media
+2020-04,P005,Vitamina C 1g,Vitaminas,1319, $25.25 ," $33,304.75 ",1866,0,Baja
+2020-05,P005,Vitamina C 1g,Vitaminas,1417, $25.33 ," $35,892.61 ",2360,0,Baja
+2020-06,P005,Vitamina C 1g,Vitaminas,1573, $25.42 ," $39,985.66 ",2477,0,Baja
+2020-07,P005,Vitamina C 1g,Vitaminas,1500, $25.50 ," $38,250.00 ",2345,0,Media
+2020-08,P005,Vitamina C 1g,Vitaminas,1453, $25.58 ," $37,167.74 ",2649,0,Media
+2020-09,P005,Vitamina C 1g,Vitaminas,1431, $25.67 ," $36,733.77 ",2761,0,Media
+2020-10,P005,Vitamina C 1g,Vitaminas,1627, $25.75 ," $41,895.25 ",3147,0,Media
+2020-11,P005,Vitamina C 1g,Vitaminas,1605, $25.83 ," $41,457.15 ",3142,0,Alta
+2020-12,P005,Vitamina C 1g,Vitaminas,1850, $25.92 ," $47,952.00 ",2585,0,Alta
+2021-01,P005,Vitamina C 1g,Vitaminas,1907, $26.00 ," $49,582.00 ",3191,0,Alta
+2021-02,P005,Vitamina C 1g,Vitaminas,1904, $26.08 ," $49,656.32 ",2677,0,Alta
+2021-03,P005,Vitamina C 1g,Vitaminas,1531, $26.17 ," $40,066.27 ",2787,1,Media
+2021-04,P005,Vitamina C 1g,Vitaminas,1503, $26.25 ," $39,453.75 ",2756,0,Baja
+2021-05,P005,Vitamina C 1g,Vitaminas,1350, $26.33 ," $35,545.50 ",2531,1,Baja
+2021-06,P005,Vitamina C 1g,Vitaminas,1609, $26.42 ," $42,509.78 ",2235,0,Baja
+2021-07,P005,Vitamina C 1g,Vitaminas,1679, $26.50 ," $44,493.50 ",2358,0,Media
+2021-08,P005,Vitamina C 1g,Vitaminas,1655, $26.58 ," $43,989.90 ",2985,0,Media
+2021-09,P005,Vitamina C 1g,Vitaminas,1648, $26.67 ," $43,952.16 ",2768,0,Media
+2021-10,P005,Vitamina C 1g,Vitaminas,1596, $26.75 ," $42,693.00 ",2277,0,Media
+2021-11,P005,Vitamina C 1g,Vitaminas,1856, $26.83 ," $49,796.48 ",2933,0,Alta
+2021-12,P005,Vitamina C 1g,Vitaminas,2195, $26.92 ," $59,089.40 ",3089,0,Alta
+2022-01,P005,Vitamina C 1g,Vitaminas,1910, $27.00 ," $51,570.00 ",3300,1,Alta
+2022-02,P005,Vitamina C 1g,Vitaminas,1996, $27.08 ," $54,051.68 ",3897,0,Alta
+2022-03,P005,Vitamina C 1g,Vitaminas,1756, $27.17 ," $47,710.52 ",3416,0,Media
+2022-04,P005,Vitamina C 1g,Vitaminas,1394, $27.25 ," $37,986.50 ",2374,0,Baja
+2022-05,P005,Vitamina C 1g,Vitaminas,1418, $27.33 ," $38,753.94 ",2574,0,Baja
+2022-06,P005,Vitamina C 1g,Vitaminas,1684, $27.42 ," $46,175.28 ",2720,1,Baja
+2022-07,P005,Vitamina C 1g,Vitaminas,1800, $27.50 ," $49,500.00 ",3397,1,Media
+2022-08,P005,Vitamina C 1g,Vitaminas,1779, $27.58 ," $49,064.82 ",3395,0,Media
+2022-09,P005,Vitamina C 1g,Vitaminas,1655, $27.67 ," $45,793.85 ",2613,1,Media
+2022-10,P005,Vitamina C 1g,Vitaminas,1637, $27.75 ," $45,426.75 ",3048,1,Media
+2022-11,P005,Vitamina C 1g,Vitaminas,1796, $27.83 ," $49,982.68 ",2835,0,Alta
+2022-12,P005,Vitamina C 1g,Vitaminas,2244, $27.92 ," $62,652.48 ",3461,0,Alta
+2023-01,P005,Vitamina C 1g,Vitaminas,2073, $28.00 ," $58,044.00 ",3351,0,Alta
+2023-02,P005,Vitamina C 1g,Vitaminas,1863, $28.08 ," $52,313.04 ",2605,0,Alta
+2023-03,P005,Vitamina C 1g,Vitaminas,1723, $28.17 ," $48,536.91 ",2745,0,Media
+2023-04,P005,Vitamina C 1g,Vitaminas,1512, $28.25 ," $42,714.00 ",2580,0,Baja
+2023-05,P005,Vitamina C 1g,Vitaminas,1311, $28.33 ," $37,140.63 ",2313,0,Baja
+2023-06,P005,Vitamina C 1g,Vitaminas,1744, $28.42 ," $49,564.48 ",2448,0,Baja
+2023-07,P005,Vitamina C 1g,Vitaminas,1492, $28.50 ," $42,522.00 ",2980,0,Media
+2023-08,P005,Vitamina C 1g,Vitaminas,1699, $28.58 ," $48,557.42 ",2288,0,Media
+2023-09,P005,Vitamina C 1g,Vitaminas,1549, $28.67 ," $44,409.83 ",2987,0,Media
+2023-10,P005,Vitamina C 1g,Vitaminas,1622, $28.75 ," $46,632.50 ",2150,0,Media
+2023-11,P005,Vitamina C 1g,Vitaminas,1953, $28.83 ," $56,304.99 ",2628,0,Alta
+2023-12,P005,Vitamina C 1g,Vitaminas,2071, $28.92 ," $59,893.32 ",3452,0,Alta
+2024-01,P005,Vitamina C 1g,Vitaminas,1967, $29.00 ," $57,043.00 ",3327,0,Alta
+2024-02,P005,Vitamina C 1g,Vitaminas,1788, $29.08 ," $51,995.04 ",3403,0,Alta
+2024-03,P005,Vitamina C 1g,Vitaminas,1717, $29.17 ," $50,084.89 ",2557,0,Media
+2024-04,P005,Vitamina C 1g,Vitaminas,1571, $29.25 ," $45,951.75 ",2070,0,Baja
+2024-05,P005,Vitamina C 1g,Vitaminas,1604, $29.33 ," $47,045.32 ",2825,1,Baja
+2024-06,P005,Vitamina C 1g,Vitaminas,1506, $29.42 ," $44,306.52 ",2201,0,Baja
+2024-07,P005,Vitamina C 1g,Vitaminas,1506, $29.50 ," $44,427.00 ",2067,0,Media
+2024-08,P005,Vitamina C 1g,Vitaminas,1574, $29.58 ," $46,558.92 ",2765,0,Media
+2024-09,P005,Vitamina C 1g,Vitaminas,1545, $29.67 ," $45,840.15 ",2271,0,Media
+2024-10,P005,Vitamina C 1g,Vitaminas,1953, $29.75 ," $58,101.75 ",3673,0,Media
+2024-11,P005,Vitamina C 1g,Vitaminas,2054, $29.83 ," $61,270.82 ",2964,0,Alta
+2024-12,P005,Vitamina C 1g,Vitaminas,2356, $29.92 ," $70,491.52 ",3084,1,Alta
+2020-01,P006,Losartan 50mg,Cronico,697, $70.00 ," $48,790.00 ",919,0,Media
+2020-02,P006,Losartan 50mg,Cronico,766, $70.23 ," $53,796.18 ",1221,0,Media
+2020-03,P006,Losartan 50mg,Cronico,811, $70.47 ," $57,151.17 ",1248,0,Media
+2020-04,P006,Losartan 50mg,Cronico,733, $70.70 ," $51,823.10 ",1255,0,Media
+2020-05,P006,Losartan 50mg,Cronico,780, $70.93 ," $55,325.40 ",1237,0,Media
+2020-06,P006,Losartan 50mg,Cronico,747, $71.17 ," $53,163.99 ",1125,0,Media
+2020-07,P006,Losartan 50mg,Cronico,809, $71.40 ," $57,762.60 ",1131,0,Media
+2020-08,P006,Losartan 50mg,Cronico,760, $71.63 ," $54,438.80 ",1463,0,Media
+2020-09,P006,Losartan 50mg,Cronico,751, $71.87 ," $53,974.37 ",988,0,Media
+2020-10,P006,Losartan 50mg,Cronico,774, $72.10 ," $55,805.40 ",1349,0,Media
+2020-11,P006,Losartan 50mg,Cronico,702, $72.33 ," $50,775.66 ",1322,0,Media
+2020-12,P006,Losartan 50mg,Cronico,775, $72.57 ," $56,241.75 ",1100,0,Media
+2021-01,P006,Losartan 50mg,Cronico,683, $72.80 ," $49,722.40 ",1325,1,Media
+2021-02,P006,Losartan 50mg,Cronico,788, $73.03 ," $57,547.64 ",1175,0,Media
+2021-03,P006,Losartan 50mg,Cronico,804, $73.27 ," $58,909.08 ",1512,0,Media
+2021-04,P006,Losartan 50mg,Cronico,686, $73.50 ," $50,421.00 ",957,0,Media
+2021-05,P006,Losartan 50mg,Cronico,849, $73.73 ," $62,596.77 ",1458,0,Media
+2021-06,P006,Losartan 50mg,Cronico,812, $73.97 ," $60,063.64 ",1155,0,Media
+2021-07,P006,Losartan 50mg,Cronico,768, $74.20 ," $56,985.60 ",1204,0,Media
+2021-08,P006,Losartan 50mg,Cronico,700, $74.43 ," $52,101.00 ",991,0,Media
+2021-09,P006,Losartan 50mg,Cronico,708, $74.67 ," $52,866.36 ",1219,0,Media
+2021-10,P006,Losartan 50mg,Cronico,768, $74.90 ," $57,523.20 ",1153,0,Media
+2021-11,P006,Losartan 50mg,Cronico,832, $75.13 ," $62,508.16 ",1254,0,Media
+2021-12,P006,Losartan 50mg,Cronico,788, $75.37 ," $59,391.56 ",1390,0,Media
+2022-01,P006,Losartan 50mg,Cronico,839, $75.60 ," $63,428.40 ",1216,1,Media
+2022-02,P006,Losartan 50mg,Cronico,751, $75.83 ," $56,948.33 ",1289,1,Media
+2022-03,P006,Losartan 50mg,Cronico,798, $76.07 ," $60,703.86 ",1370,0,Media
+2022-04,P006,Losartan 50mg,Cronico,852, $76.30 ," $65,007.60 ",1171,1,Media
+2022-05,P006,Losartan 50mg,Cronico,846, $76.53 ," $64,744.38 ",1393,0,Media
+2022-06,P006,Losartan 50mg,Cronico,791, $76.77 ," $60,725.07 ",1164,0,Media
+2022-07,P006,Losartan 50mg,Cronico,864, $77.00 ," $66,528.00 ",1543,0,Media
+2022-08,P006,Losartan 50mg,Cronico,825, $77.23 ," $63,714.75 ",1280,1,Media
+2022-09,P006,Losartan 50mg,Cronico,891, $77.47 ," $69,025.77 ",1243,0,Media
+2022-10,P006,Losartan 50mg,Cronico,801, $77.70 ," $62,237.70 ",1145,0,Media
+2022-11,P006,Losartan 50mg,Cronico,886, $77.93 ," $69,045.98 ",1605,0,Media
+2022-12,P006,Losartan 50mg,Cronico,846, $78.17 ," $66,131.82 ",1509,0,Media
+2023-01,P006,Losartan 50mg,Cronico,768, $78.40 ," $60,211.20 ",1261,0,Media
+2023-02,P006,Losartan 50mg,Cronico,915, $78.63 ," $71,946.45 ",1794,1,Media
+2023-03,P006,Losartan 50mg,Cronico,861, $78.87 ," $67,907.07 ",1676,0,Media
+2023-04,P006,Losartan 50mg,Cronico,836, $79.10 ," $66,127.60 ",1622,1,Media
+2023-05,P006,Losartan 50mg,Cronico,864, $79.33 ," $68,541.12 ",1303,0,Media
+2023-06,P006,Losartan 50mg,Cronico,920, $79.57 ," $73,204.40 ",1804,0,Media
+2023-07,P006,Losartan 50mg,Cronico,900, $79.80 ," $71,820.00 ",1702,0,Media
+2023-08,P006,Losartan 50mg,Cronico,896, $80.03 ," $71,706.88 ",1188,0,Media
+2023-09,P006,Losartan 50mg,Cronico,778, $80.27 ," $62,450.06 ",1077,1,Media
+2023-10,P006,Losartan 50mg,Cronico,873, $80.50 ," $70,276.50 ",1342,0,Media
+2023-11,P006,Losartan 50mg,Cronico,749, $80.73 ," $60,466.77 ",1139,0,Media
+2023-12,P006,Losartan 50mg,Cronico,896, $80.97 ," $72,549.12 ",1364,0,Media
+2024-01,P006,Losartan 50mg,Cronico,917, $81.20 ," $74,460.40 ",1587,0,Media
+2024-02,P006,Losartan 50mg,Cronico,745, $81.43 ," $60,665.35 ",1422,1,Media
+2024-03,P006,Losartan 50mg,Cronico,919, $81.67 ," $75,054.73 ",1534,0,Media
+2024-04,P006,Losartan 50mg,Cronico,906, $81.90 ," $74,201.40 ",1810,0,Media
+2024-05,P006,Losartan 50mg,Cronico,901, $82.13 ," $73,999.13 ",1424,0,Media
+2024-06,P006,Losartan 50mg,Cronico,875, $82.37 ," $72,073.75 ",1672,0,Media
+2024-07,P006,Losartan 50mg,Cronico,906, $82.60 ," $74,835.60 ",1442,0,Media
+2024-08,P006,Losartan 50mg,Cronico,901, $82.83 ," $74,629.83 ",1321,1,Media
+2024-09,P006,Losartan 50mg,Cronico,825, $83.07 ," $68,532.75 ",1238,0,Media
+2024-10,P006,Losartan 50mg,Cronico,802, $83.30 ," $66,806.60 ",1066,1,Media
+2024-11,P006,Losartan 50mg,Cronico,959, $83.53 ," $80,105.27 ",1533,0,Media
+2024-12,P006,Losartan 50mg,Cronico,897, $83.77 ," $75,141.69 ",1303,0,Media
+2020-01,P007,Diclofenaco gel,Antiinflamatorio,750, $55.00 ," $41,250.00 ",1021,0,Media
+2020-02,P007,Diclofenaco gel,Antiinflamatorio,753, $55.18 ," $41,550.54 ",1476,0,Media
+2020-03,P007,Diclofenaco gel,Antiinflamatorio,684, $55.37 ," $37,873.08 ",969,0,Media
+2020-04,P007,Diclofenaco gel,Antiinflamatorio,600, $55.55 ," $33,330.00 ",1175,0,Media
+2020-05,P007,Diclofenaco gel,Antiinflamatorio,646, $55.73 ," $36,001.58 ",1071,0,Media
+2020-06,P007,Diclofenaco gel,Antiinflamatorio,594, $55.92 ," $33,216.48 ",863,0,Media
+2020-07,P007,Diclofenaco gel,Antiinflamatorio,704, $56.10 ," $39,494.40 ",1087,1,Media
+2020-08,P007,Diclofenaco gel,Antiinflamatorio,735, $56.28 ," $41,365.80 ",1410,0,Media
+2020-09,P007,Diclofenaco gel,Antiinflamatorio,741, $56.47 ," $41,844.27 ",1053,0,Media
+2020-10,P007,Diclofenaco gel,Antiinflamatorio,719, $56.65 ," $40,731.35 ",1285,0,Media
+2020-11,P007,Diclofenaco gel,Antiinflamatorio,759, $56.83 ," $43,133.97 ",1105,0,Media
+2020-12,P007,Diclofenaco gel,Antiinflamatorio,741, $57.02 ," $42,251.82 ",1270,0,Alta
+2021-01,P007,Diclofenaco gel,Antiinflamatorio,652, $57.20 ," $37,294.40 ",1248,0,Media
+2021-02,P007,Diclofenaco gel,Antiinflamatorio,648, $57.38 ," $37,182.24 ",1245,0,Media
+2021-03,P007,Diclofenaco gel,Antiinflamatorio,745, $57.57 ," $42,889.65 ",1390,0,Media
+2021-04,P007,Diclofenaco gel,Antiinflamatorio,668, $57.75 ," $38,577.00 ",909,0,Media
+2021-05,P007,Diclofenaco gel,Antiinflamatorio,629, $57.93 ," $36,437.97 ",932,0,Media
+2021-06,P007,Diclofenaco gel,Antiinflamatorio,663, $58.12 ," $38,533.56 ",899,0,Media
+2021-07,P007,Diclofenaco gel,Antiinflamatorio,709, $58.30 ," $41,334.70 ",959,0,Media
+2021-08,P007,Diclofenaco gel,Antiinflamatorio,680, $58.48 ," $39,766.40 ",1112,0,Media
+2021-09,P007,Diclofenaco gel,Antiinflamatorio,735, $58.67 ," $43,122.45 ",1134,0,Media
+2021-10,P007,Diclofenaco gel,Antiinflamatorio,708, $58.85 ," $41,665.80 ",1052,0,Media
+2021-11,P007,Diclofenaco gel,Antiinflamatorio,778, $59.03 ," $45,925.34 ",1369,0,Media
+2021-12,P007,Diclofenaco gel,Antiinflamatorio,822, $59.22 ," $48,678.84 ",1476,0,Alta
+2022-01,P007,Diclofenaco gel,Antiinflamatorio,779, $59.40 ," $46,272.60 ",1383,0,Media
+2022-02,P007,Diclofenaco gel,Antiinflamatorio,776, $59.58 ," $46,234.08 ",1094,0,Media
+2022-03,P007,Diclofenaco gel,Antiinflamatorio,769, $59.77 ," $45,963.13 ",1015,0,Media
+2022-04,P007,Diclofenaco gel,Antiinflamatorio,619, $59.95 ," $37,109.05 ",949,0,Media
+2022-05,P007,Diclofenaco gel,Antiinflamatorio,613, $60.13 ," $36,859.69 ",1147,0,Media
+2022-06,P007,Diclofenaco gel,Antiinflamatorio,684, $60.32 ," $41,258.88 ",892,0,Media
+2022-07,P007,Diclofenaco gel,Antiinflamatorio,718, $60.50 ," $43,439.00 ",1426,0,Media
+2022-08,P007,Diclofenaco gel,Antiinflamatorio,660, $60.68 ," $40,048.80 ",1150,0,Media
+2022-09,P007,Diclofenaco gel,Antiinflamatorio,749, $60.87 ," $45,591.63 ",1029,0,Media
+2022-10,P007,Diclofenaco gel,Antiinflamatorio,724, $61.05 ," $44,200.20 ",1429,0,Media
+2022-11,P007,Diclofenaco gel,Antiinflamatorio,771, $61.23 ," $47,208.33 ",1505,1,Media
+2022-12,P007,Diclofenaco gel,Antiinflamatorio,859, $61.42 ," $52,759.78 ",1530,1,Alta
+2023-01,P007,Diclofenaco gel,Antiinflamatorio,728, $61.60 ," $44,844.80 ",1307,1,Media
+2023-02,P007,Diclofenaco gel,Antiinflamatorio,767, $61.78 ," $47,385.26 ",1182,0,Media
+2023-03,P007,Diclofenaco gel,Antiinflamatorio,646, $61.97 ," $40,032.62 ",1233,0,Media
+2023-04,P007,Diclofenaco gel,Antiinflamatorio,777, $62.15 ," $48,290.55 ",1417,1,Media
+2023-05,P007,Diclofenaco gel,Antiinflamatorio,728, $62.33 ," $45,376.24 ",958,1,Media
+2023-06,P007,Diclofenaco gel,Antiinflamatorio,672, $62.52 ," $42,013.44 ",1103,0,Media
+2023-07,P007,Diclofenaco gel,Antiinflamatorio,749, $62.70 ," $46,962.30 ",1207,0,Media
+2023-08,P007,Diclofenaco gel,Antiinflamatorio,805, $62.88 ," $50,618.40 ",1286,0,Media
+2023-09,P007,Diclofenaco gel,Antiinflamatorio,663, $63.07 ," $41,815.41 ",1230,0,Media
+2023-10,P007,Diclofenaco gel,Antiinflamatorio,688, $63.25 ," $43,516.00 ",934,0,Media
+2023-11,P007,Diclofenaco gel,Antiinflamatorio,796, $63.43 ," $50,490.28 ",1187,0,Media
+2023-12,P007,Diclofenaco gel,Antiinflamatorio,732, $63.62 ," $46,569.84 ",1173,0,Alta
+2024-01,P007,Diclofenaco gel,Antiinflamatorio,771, $63.80 ," $49,189.80 ",1346,0,Media
+2024-02,P007,Diclofenaco gel,Antiinflamatorio,731, $63.98 ," $46,769.38 ",1453,0,Media
+2024-03,P007,Diclofenaco gel,Antiinflamatorio,816, $64.17 ," $52,362.72 ",1192,0,Media
+2024-04,P007,Diclofenaco gel,Antiinflamatorio,637, $64.35 ," $40,990.95 ",1118,0,Media
+2024-05,P007,Diclofenaco gel,Antiinflamatorio,766, $64.53 ," $49,429.98 ",1249,0,Media
+2024-06,P007,Diclofenaco gel,Antiinflamatorio,666, $64.72 ," $43,103.52 ",1270,0,Media
+2024-07,P007,Diclofenaco gel,Antiinflamatorio,785, $64.90 ," $50,946.50 ",1484,0,Media
+2024-08,P007,Diclofenaco gel,Antiinflamatorio,761, $65.08 ," $49,525.88 ",1059,1,Media
+2024-09,P007,Diclofenaco gel,Antiinflamatorio,815, $65.27 ," $53,195.05 ",1411,0,Media
+2024-10,P007,Diclofenaco gel,Antiinflamatorio,754, $65.45 ," $49,349.30 ",1042,1,Media
+2024-11,P007,Diclofenaco gel,Antiinflamatorio,824, $65.63 ," $54,079.12 ",1319,0,Media
+2024-12,P007,Diclofenaco gel,Antiinflamatorio,818, $65.82 ," $53,840.76 ",1100,0,Alta
+2020-01,P008,Metformina 850mg,Cronico,897, $50.00 ," $44,850.00 ",1666,0,Media
+2020-02,P008,Metformina 850mg,Cronico,942, $50.17 ," $47,260.14 ",1232,1,Media
+2020-03,P008,Metformina 850mg,Cronico,930, $50.33 ," $46,806.90 ",1521,0,Media
+2020-04,P008,Metformina 850mg,Cronico,909, $50.50 ," $45,904.50 ",1623,0,Media
+2020-05,P008,Metformina 850mg,Cronico,1023, $50.67 ," $51,835.41 ",1358,0,Media
+2020-06,P008,Metformina 850mg,Cronico,870, $50.83 ," $44,222.10 ",1278,0,Media
+2020-07,P008,Metformina 850mg,Cronico,881, $51.00 ," $44,931.00 ",1452,0,Media
+2020-08,P008,Metformina 850mg,Cronico,1013, $51.17 ," $51,835.21 ",1713,1,Media
+2020-09,P008,Metformina 850mg,Cronico,928, $51.33 ," $47,634.24 ",1542,1,Media
+2020-10,P008,Metformina 850mg,Cronico,936, $51.50 ," $48,204.00 ",1238,1,Media
+2020-11,P008,Metformina 850mg,Cronico,949, $51.67 ," $49,034.83 ",1321,0,Media
+2020-12,P008,Metformina 850mg,Cronico,1020, $51.83 ," $52,866.60 ",1897,0,Media
+2021-01,P008,Metformina 850mg,Cronico,900, $52.00 ," $46,800.00 ",1235,0,Media
+2021-02,P008,Metformina 850mg,Cronico,1029, $52.17 ," $53,682.93 ",1360,0,Media
+2021-03,P008,Metformina 850mg,Cronico,877, $52.33 ," $45,893.41 ",1472,0,Media
+2021-04,P008,Metformina 850mg,Cronico,1073, $52.50 ," $56,332.50 ",1931,0,Media
+2021-05,P008,Metformina 850mg,Cronico,949, $52.67 ," $49,983.83 ",1774,1,Media
+2021-06,P008,Metformina 850mg,Cronico,1084, $52.83 ," $57,267.72 ",1824,0,Media
+2021-07,P008,Metformina 850mg,Cronico,981, $53.00 ," $51,993.00 ",1717,0,Media
+2021-08,P008,Metformina 850mg,Cronico,1050, $53.17 ," $55,828.50 ",1424,1,Media
+2021-09,P008,Metformina 850mg,Cronico,936, $53.33 ," $49,916.88 ",1321,0,Media
+2021-10,P008,Metformina 850mg,Cronico,932, $53.50 ," $49,862.00 ",1848,0,Media
+2021-11,P008,Metformina 850mg,Cronico,925, $53.67 ," $49,644.75 ",1713,0,Media
+2021-12,P008,Metformina 850mg,Cronico,1004, $53.83 ," $54,045.32 ",1695,0,Media
+2022-01,P008,Metformina 850mg,Cronico,941, $54.00 ," $50,814.00 ",1879,0,Media
+2022-02,P008,Metformina 850mg,Cronico,1045, $54.17 ," $56,607.65 ",1504,0,Media
+2022-03,P008,Metformina 850mg,Cronico,907, $54.33 ," $49,277.31 ",1198,0,Media
+2022-04,P008,Metformina 850mg,Cronico,1005, $54.50 ," $54,772.50 ",1917,0,Media
+2022-05,P008,Metformina 850mg,Cronico,1075, $54.67 ," $58,770.25 ",1717,0,Media
+2022-06,P008,Metformina 850mg,Cronico,987, $54.83 ," $54,117.21 ",1965,1,Media
+2022-07,P008,Metformina 850mg,Cronico,1111, $55.00 ," $61,105.00 ",1894,0,Media
+2022-08,P008,Metformina 850mg,Cronico,1078, $55.17 ," $59,473.26 ",1768,0,Media
+2022-09,P008,Metformina 850mg,Cronico,1124, $55.33 ," $62,190.92 ",1793,0,Media
+2022-10,P008,Metformina 850mg,Cronico,1051, $55.50 ," $58,330.50 ",2037,0,Media
+2022-11,P008,Metformina 850mg,Cronico,1061, $55.67 ," $59,065.87 ",1848,0,Media
+2022-12,P008,Metformina 850mg,Cronico,941, $55.83 ," $52,536.03 ",1694,0,Media
+2023-01,P008,Metformina 850mg,Cronico,955, $56.00 ," $53,480.00 ",1400,0,Media
+2023-02,P008,Metformina 850mg,Cronico,958, $56.17 ," $53,810.86 ",1818,0,Media
+2023-03,P008,Metformina 850mg,Cronico,977, $56.33 ," $55,034.41 ",1865,0,Media
+2023-04,P008,Metformina 850mg,Cronico,1046, $56.50 ," $59,099.00 ",1622,0,Media
+2023-05,P008,Metformina 850mg,Cronico,960, $56.67 ," $54,403.20 ",1510,0,Media
+2023-06,P008,Metformina 850mg,Cronico,986, $56.83 ," $56,034.38 ",1735,0,Media
+2023-07,P008,Metformina 850mg,Cronico,1118, $57.00 ," $63,726.00 ",1555,0,Media
+2023-08,P008,Metformina 850mg,Cronico,1040, $57.17 ," $59,456.80 ",1523,1,Media
+2023-09,P008,Metformina 850mg,Cronico,970, $57.33 ," $55,610.10 ",1613,0,Media
+2023-10,P008,Metformina 850mg,Cronico,1140, $57.50 ," $65,550.00 ",1825,0,Media
+2023-11,P008,Metformina 850mg,Cronico,1089, $57.67 ," $62,802.63 ",1954,0,Media
+2023-12,P008,Metformina 850mg,Cronico,976, $57.83 ," $56,442.08 ",1293,0,Media
+2024-01,P008,Metformina 850mg,Cronico,1105, $58.00 ," $64,090.00 ",1803,0,Media
+2024-02,P008,Metformina 850mg,Cronico,1144, $58.17 ," $66,546.48 ",1955,0,Media
+2024-03,P008,Metformina 850mg,Cronico,993, $58.33 ," $57,921.69 ",1368,0,Media
+2024-04,P008,Metformina 850mg,Cronico,957, $58.50 ," $55,984.50 ",1599,0,Media
+2024-05,P008,Metformina 850mg,Cronico,954, $58.67 ," $55,971.18 ",1321,0,Media
+2024-06,P008,Metformina 850mg,Cronico,1187, $58.83 ," $69,831.21 ",1805,0,Media
+2024-07,P008,Metformina 850mg,Cronico,959, $59.00 ," $56,581.00 ",1346,0,Media
+2024-08,P008,Metformina 850mg,Cronico,1201, $59.17 ," $71,063.17 ",1565,0,Media
+2024-09,P008,Metformina 850mg,Cronico,1119, $59.33 ," $66,390.27 ",2134,0,Media
+2024-10,P008,Metformina 850mg,Cronico,1089, $59.50 ," $64,795.50 ",1788,0,Media
+2024-11,P008,Metformina 850mg,Cronico,993, $59.67 ," $59,252.31 ",1311,0,Media
+2024-12,P008,Metformina 850mg,Cronico,1143, $59.83 ," $68,385.69 ",1647,0,Media
+2020-01,P009,Loratadina 10mg,Analgesico,834, $40.00 ," $33,360.00 ",1139,0,Media
+2020-02,P009,Loratadina 10mg,Analgesico,741, $40.13 ," $29,736.33 ",1413,0,Media
+2020-03,P009,Loratadina 10mg,Analgesico,906, $40.27 ," $36,484.62 ",1709,0,Alta
+2020-04,P009,Loratadina 10mg,Analgesico,907, $40.40 ," $36,642.80 ",1494,0,Alta
+2020-05,P009,Loratadina 10mg,Analgesico,948, $40.53 ," $38,422.44 ",1611,1,Alta
+2020-06,P009,Loratadina 10mg,Analgesico,837, $40.67 ," $34,040.79 ",1492,0,Media
+2020-07,P009,Loratadina 10mg,Analgesico,709, $40.80 ," $28,927.20 ",1248,0,Media
+2020-08,P009,Loratadina 10mg,Analgesico,790, $40.93 ," $32,334.70 ",1085,0,Media
+2020-09,P009,Loratadina 10mg,Analgesico,856, $41.07 ," $35,155.92 ",1141,0,Media
+2020-10,P009,Loratadina 10mg,Analgesico,749, $41.20 ," $30,858.80 ",1430,0,Media
+2020-11,P009,Loratadina 10mg,Analgesico,781, $41.33 ," $32,278.73 ",1419,0,Media
+2020-12,P009,Loratadina 10mg,Analgesico,752, $41.47 ," $31,185.44 ",1149,0,Media
+2021-01,P009,Loratadina 10mg,Analgesico,829, $41.60 ," $34,486.40 ",1520,0,Media
+2021-02,P009,Loratadina 10mg,Analgesico,762, $41.73 ," $31,798.26 ",1426,1,Media
+2021-03,P009,Loratadina 10mg,Analgesico,902, $41.87 ," $37,766.74 ",1176,0,Alta
+2021-04,P009,Loratadina 10mg,Analgesico,866, $42.00 ," $36,372.00 ",1365,0,Alta
+2021-05,P009,Loratadina 10mg,Analgesico,873, $42.13 ," $36,779.49 ",1409,0,Alta
+2021-06,P009,Loratadina 10mg,Analgesico,758, $42.27 ," $32,040.66 ",1105,1,Media
+2021-07,P009,Loratadina 10mg,Analgesico,803, $42.40 ," $34,047.20 ",1419,0,Media
+2021-08,P009,Loratadina 10mg,Analgesico,778, $42.53 ," $33,088.34 ",1218,0,Media
+2021-09,P009,Loratadina 10mg,Analgesico,791, $42.67 ," $33,751.97 ",1293,1,Media
+2021-10,P009,Loratadina 10mg,Analgesico,759, $42.80 ," $32,485.20 ",1188,0,Media
+2021-11,P009,Loratadina 10mg,Analgesico,806, $42.93 ," $34,601.58 ",1348,0,Media
+2021-12,P009,Loratadina 10mg,Analgesico,843, $43.07 ," $36,308.01 ",1575,0,Media
+2022-01,P009,Loratadina 10mg,Analgesico,881, $43.20 ," $38,059.20 ",1156,0,Media
+2022-02,P009,Loratadina 10mg,Analgesico,702, $43.33 ," $30,417.66 ",1230,0,Media
+2022-03,P009,Loratadina 10mg,Analgesico,862, $43.47 ," $37,471.14 ",1679,1,Alta
+2022-04,P009,Loratadina 10mg,Analgesico,1016, $43.60 ," $44,297.60 ",1570,1,Alta
+2022-05,P009,Loratadina 10mg,Analgesico,919, $43.73 ," $40,187.87 ",1359,0,Alta
+2022-06,P009,Loratadina 10mg,Analgesico,767, $43.87 ," $33,648.29 ",1428,0,Media
+2022-07,P009,Loratadina 10mg,Analgesico,769, $44.00 ," $33,836.00 ",1328,0,Media
+2022-08,P009,Loratadina 10mg,Analgesico,764, $44.13 ," $33,715.32 ",1214,1,Media
+2022-09,P009,Loratadina 10mg,Analgesico,748, $44.27 ," $33,113.96 ",1329,0,Media
+2022-10,P009,Loratadina 10mg,Analgesico,816, $44.40 ," $36,230.40 ",1465,1,Media
+2022-11,P009,Loratadina 10mg,Analgesico,826, $44.53 ," $36,781.78 ",1222,0,Media
+2022-12,P009,Loratadina 10mg,Analgesico,812, $44.67 ," $36,272.04 ",1513,0,Media
+2023-01,P009,Loratadina 10mg,Analgesico,727, $44.80 ," $32,569.60 ",1267,0,Media
+2023-02,P009,Loratadina 10mg,Analgesico,839, $44.93 ," $37,696.27 ",1571,0,Media
+2023-03,P009,Loratadina 10mg,Analgesico,882, $45.07 ," $39,751.74 ",1277,0,Alta
+2023-04,P009,Loratadina 10mg,Analgesico,926, $45.20 ," $41,855.20 ",1748,0,Alta
+2023-05,P009,Loratadina 10mg,Analgesico,915, $45.33 ," $41,476.95 ",1341,0,Alta
+2023-06,P009,Loratadina 10mg,Analgesico,782, $45.47 ," $35,557.54 ",1466,0,Media
+2023-07,P009,Loratadina 10mg,Analgesico,862, $45.60 ," $39,307.20 ",1178,0,Media
+2023-08,P009,Loratadina 10mg,Analgesico,821, $45.73 ," $37,544.33 ",1404,0,Media
+2023-09,P009,Loratadina 10mg,Analgesico,879, $45.87 ," $40,319.73 ",1673,0,Media
+2023-10,P009,Loratadina 10mg,Analgesico,753, $46.00 ," $34,638.00 ",991,0,Media
+2023-11,P009,Loratadina 10mg,Analgesico,857, $46.13 ," $39,533.41 ",1442,0,Media
+2023-12,P009,Loratadina 10mg,Analgesico,816, $46.27 ," $37,756.32 ",1400,0,Media
+2024-01,P009,Loratadina 10mg,Analgesico,938, $46.40 ," $43,523.20 ",1308,0,Media
+2024-02,P009,Loratadina 10mg,Analgesico,822, $46.53 ," $38,247.66 ",1314,0,Media
+2024-03,P009,Loratadina 10mg,Analgesico,1015, $46.67 ," $47,370.05 ",2023,1,Alta
+2024-04,P009,Loratadina 10mg,Analgesico,880, $46.80 ," $41,184.00 ",1590,0,Alta
+2024-05,P009,Loratadina 10mg,Analgesico,921, $46.93 ," $43,222.53 ",1248,1,Alta
+2024-06,P009,Loratadina 10mg,Analgesico,929, $47.07 ," $43,728.03 ",1332,0,Media
+2024-07,P009,Loratadina 10mg,Analgesico,795, $47.20 ," $37,524.00 ",1231,1,Media
+2024-08,P009,Loratadina 10mg,Analgesico,857, $47.33 ," $40,561.81 ",1154,0,Media
+2024-09,P009,Loratadina 10mg,Analgesico,800, $47.47 ," $37,976.00 ",1342,0,Media
+2024-10,P009,Loratadina 10mg,Analgesico,887, $47.60 ," $42,221.20 ",1484,0,Media
+2024-11,P009,Loratadina 10mg,Analgesico,824, $47.73 ," $39,329.52 ",1457,0,Media
+2024-12,P009,Loratadina 10mg,Analgesico,894, $47.87 ," $42,795.78 ",1511,0,Media
+2020-01,P010,Complejo B,Vitaminas,1124, $30.00 ," $33,720.00 ",1508,0,Media
+2020-02,P010,Complejo B,Vitaminas,1238, $30.10 ," $37,263.80 ",1761,0,Media
+2020-03,P010,Complejo B,Vitaminas,999, $30.20 ," $30,169.80 ",1673,1,Media
+2020-04,P010,Complejo B,Vitaminas,1024, $30.30 ," $31,027.20 ",1873,0,Media
+2020-05,P010,Complejo B,Vitaminas,1058, $30.40 ," $32,163.20 ",1964,0,Media
+2020-06,P010,Complejo B,Vitaminas,975, $30.50 ," $29,737.50 ",1540,0,Media
+2020-07,P010,Complejo B,Vitaminas,1191, $30.60 ," $36,444.60 ",2321,0,Media
+2020-08,P010,Complejo B,Vitaminas,1156, $30.70 ," $35,489.20 ",1924,0,Media
+2020-09,P010,Complejo B,Vitaminas,965, $30.80 ," $29,722.00 ",1764,1,Media
+2020-10,P010,Complejo B,Vitaminas,1180, $30.90 ," $36,462.00 ",2179,0,Media
+2020-11,P010,Complejo B,Vitaminas,1013, $31.00 ," $31,403.00 ",1531,0,Media
+2020-12,P010,Complejo B,Vitaminas,1146, $31.10 ," $35,640.60 ",1560,0,Alta
+2021-01,P010,Complejo B,Vitaminas,1183, $31.20 ," $36,909.60 ",1790,0,Media
+2021-02,P010,Complejo B,Vitaminas,1134, $31.30 ," $35,494.20 ",1950,0,Media
+2021-03,P010,Complejo B,Vitaminas,1220, $31.40 ," $38,308.00 ",2010,0,Media
+2021-04,P010,Complejo B,Vitaminas,1157, $31.50 ," $36,445.50 ",1672,0,Media
+2021-05,P010,Complejo B,Vitaminas,951, $31.60 ," $30,051.60 ",1780,0,Media
+2021-06,P010,Complejo B,Vitaminas,1170, $31.70 ," $37,089.00 ",2231,0,Media
+2021-07,P010,Complejo B,Vitaminas,1173, $31.80 ," $37,301.40 ",1775,1,Media
+2021-08,P010,Complejo B,Vitaminas,1074, $31.90 ," $34,260.60 ",1526,0,Media
+2021-09,P010,Complejo B,Vitaminas,1061, $32.00 ," $33,952.00 ",2103,0,Media
+2021-10,P010,Complejo B,Vitaminas,1214, $32.10 ," $38,969.40 ",1690,0,Media
+2021-11,P010,Complejo B,Vitaminas,1293, $32.20 ," $41,634.60 ",2121,0,Media
+2021-12,P010,Complejo B,Vitaminas,1299, $32.30 ," $41,957.70 ",1847,0,Alta
+2022-01,P010,Complejo B,Vitaminas,1172, $32.40 ," $37,972.80 ",1643,0,Media
+2022-02,P010,Complejo B,Vitaminas,1060, $32.50 ," $34,450.00 ",1397,1,Media
+2022-03,P010,Complejo B,Vitaminas,1267, $32.60 ," $41,304.20 ",2134,0,Media
+2022-04,P010,Complejo B,Vitaminas,1080, $32.70 ," $35,316.00 ",1639,0,Media
+2022-05,P010,Complejo B,Vitaminas,1062, $32.80 ," $34,833.60 ",1459,0,Media
+2022-06,P010,Complejo B,Vitaminas,1028, $32.90 ," $33,821.20 ",1782,0,Media
+2022-07,P010,Complejo B,Vitaminas,1034, $33.00 ," $34,122.00 ",1388,0,Media
+2022-08,P010,Complejo B,Vitaminas,1120, $33.10 ," $37,072.00 ",1501,0,Media
+2022-09,P010,Complejo B,Vitaminas,1013, $33.20 ," $33,631.60 ",1809,0,Media
+2022-10,P010,Complejo B,Vitaminas,1086, $33.30 ," $36,163.80 ",1519,1,Media
+2022-11,P010,Complejo B,Vitaminas,1150, $33.40 ," $38,410.00 ",1576,0,Media
+2022-12,P010,Complejo B,Vitaminas,1124, $33.50 ," $37,654.00 ",1862,0,Alta
+2023-01,P010,Complejo B,Vitaminas,1329, $33.60 ," $44,654.40 ",2300,0,Media
+2023-02,P010,Complejo B,Vitaminas,1252, $33.70 ," $42,192.40 ",2089,0,Media
+2023-03,P010,Complejo B,Vitaminas,1068, $33.80 ," $36,098.40 ",2051,0,Media
+2023-04,P010,Complejo B,Vitaminas,1046, $33.90 ," $35,459.40 ",1629,0,Media
+2023-05,P010,Complejo B,Vitaminas,1195, $34.00 ," $40,630.00 ",2167,0,Media
+2023-06,P010,Complejo B,Vitaminas,1001, $34.10 ," $34,134.10 ",1592,0,Media
+2023-07,P010,Complejo B,Vitaminas,1026, $34.20 ," $35,089.20 ",1520,0,Media
+2023-08,P010,Complejo B,Vitaminas,1061, $34.30 ," $36,392.30 ",1776,0,Media
+2023-09,P010,Complejo B,Vitaminas,1029, $34.40 ," $35,397.60 ",1511,0,Media
+2023-10,P010,Complejo B,Vitaminas,1277, $34.50 ," $44,056.50 ",2517,0,Media
+2023-11,P010,Complejo B,Vitaminas,1124, $34.60 ," $38,890.40 ",1892,0,Media
+2023-12,P010,Complejo B,Vitaminas,1397, $34.70 ," $48,475.90 ",1912,0,Alta
+2024-01,P010,Complejo B,Vitaminas,1163, $34.80 ," $40,472.40 ",1776,0,Media
+2024-02,P010,Complejo B,Vitaminas,1242, $34.90 ," $43,345.80 ",1941,0,Media
+2024-03,P010,Complejo B,Vitaminas,1193, $35.00 ," $41,755.00 ",2206,0,Media
+2024-04,P010,Complejo B,Vitaminas,1286, $35.10 ," $45,138.60 ",2380,0,Media
+2024-05,P010,Complejo B,Vitaminas,1190, $35.20 ," $41,888.00 ",1911,0,Media
+2024-06,P010,Complejo B,Vitaminas,1260, $35.30 ," $44,478.00 ",1671,0,Media
+2024-07,P010,Complejo B,Vitaminas,1180, $35.40 ," $41,772.00 ",2060,0,Media
+2024-08,P010,Complejo B,Vitaminas,1307, $35.50 ," $46,398.50 ",2281,0,Media
+2024-09,P010,Complejo B,Vitaminas,1072, $35.60 ," $38,163.20 ",1782,0,Media
+2024-10,P010,Complejo B,Vitaminas,1293, $35.70 ," $46,160.10 ",2144,0,Media
+2024-11,P010,Complejo B,Vitaminas,1134, $35.80 ," $40,597.20 ",1541,0,Media
+2024-12,P010,Complejo B,Vitaminas,1189, $35.90 ," $42,685.10 ",1605,1,Alta
+2020-01,P011,Naproxeno 500mg,Antiinflamatorio,838, $65.00 ," $54,470.00 ",1522,0,Media
+2020-02,P011,Naproxeno 500mg,Antiinflamatorio,707, $65.22 ," $46,110.54 ",1092,0,Media
+2020-03,P011,Naproxeno 500mg,Antiinflamatorio,745, $65.43 ," $48,745.35 ",1065,0,Media
+2020-04,P011,Naproxeno 500mg,Antiinflamatorio,624, $65.65 ," $40,965.60 ",1099,0,Media
+2020-05,P011,Naproxeno 500mg,Antiinflamatorio,640, $65.87 ," $42,156.80 ",841,1,Media
+2020-06,P011,Naproxeno 500mg,Antiinflamatorio,772, $66.08 ," $51,013.76 ",1163,0,Media
+2020-07,P011,Naproxeno 500mg,Antiinflamatorio,731, $66.30 ," $48,465.30 ",1145,0,Media
+2020-08,P011,Naproxeno 500mg,Antiinflamatorio,647, $66.52 ," $43,038.44 ",1119,0,Media
+2020-09,P011,Naproxeno 500mg,Antiinflamatorio,738, $66.73 ," $49,246.74 ",1233,1,Media
+2020-10,P011,Naproxeno 500mg,Antiinflamatorio,812, $66.95 ," $54,363.40 ",1509,0,Media
+2020-11,P011,Naproxeno 500mg,Antiinflamatorio,848, $67.17 ," $56,960.16 ",1459,0,Media
+2020-12,P011,Naproxeno 500mg,Antiinflamatorio,838, $67.38 ," $56,464.44 ",1565,0,Alta
+2021-01,P011,Naproxeno 500mg,Antiinflamatorio,709, $67.60 ," $47,928.40 ",1089,0,Media
+2021-02,P011,Naproxeno 500mg,Antiinflamatorio,715, $67.82 ," $48,491.30 ",1115,0,Media
+2021-03,P011,Naproxeno 500mg,Antiinflamatorio,728, $68.03 ," $49,525.84 ",1258,0,Media
+2021-04,P011,Naproxeno 500mg,Antiinflamatorio,667, $68.25 ," $45,522.75 ",923,0,Media
+2021-05,P011,Naproxeno 500mg,Antiinflamatorio,763, $68.47 ," $52,242.61 ",1336,0,Media
+2021-06,P011,Naproxeno 500mg,Antiinflamatorio,769, $68.68 ," $52,814.92 ",1463,0,Media
+2021-07,P011,Naproxeno 500mg,Antiinflamatorio,805, $68.90 ," $55,464.50 ",1188,0,Media
+2021-08,P011,Naproxeno 500mg,Antiinflamatorio,726, $69.12 ," $50,181.12 ",1371,0,Media
+2021-09,P011,Naproxeno 500mg,Antiinflamatorio,783, $69.33 ," $54,285.39 ",1377,0,Media
+2021-10,P011,Naproxeno 500mg,Antiinflamatorio,759, $69.55 ," $52,788.45 ",1509,0,Media
+2021-11,P011,Naproxeno 500mg,Antiinflamatorio,696, $69.77 ," $48,559.92 ",985,1,Media
+2021-12,P011,Naproxeno 500mg,Antiinflamatorio,858, $69.98 ," $60,042.84 ",1606,0,Alta
+2022-01,P011,Naproxeno 500mg,Antiinflamatorio,802, $70.20 ," $56,300.40 ",1514,0,Media
+2022-02,P011,Naproxeno 500mg,Antiinflamatorio,796, $70.42 ," $56,054.32 ",1363,0,Media
+2022-03,P011,Naproxeno 500mg,Antiinflamatorio,723, $70.63 ," $51,065.49 ",1225,0,Media
+2022-04,P011,Naproxeno 500mg,Antiinflamatorio,797, $70.85 ," $56,467.45 ",1391,0,Media
+2022-05,P011,Naproxeno 500mg,Antiinflamatorio,660, $71.07 ," $46,906.20 ",1071,1,Media
+2022-06,P011,Naproxeno 500mg,Antiinflamatorio,691, $71.28 ," $49,254.48 ",1249,0,Media
+2022-07,P011,Naproxeno 500mg,Antiinflamatorio,680, $71.50 ," $48,620.00 ",1075,0,Media
+2022-08,P011,Naproxeno 500mg,Antiinflamatorio,700, $71.72 ," $50,204.00 ",1181,0,Media
+2022-09,P011,Naproxeno 500mg,Antiinflamatorio,777, $71.93 ," $55,889.61 ",1112,0,Media
+2022-10,P011,Naproxeno 500mg,Antiinflamatorio,825, $72.15 ," $59,523.75 ",1392,1,Media
+2022-11,P011,Naproxeno 500mg,Antiinflamatorio,855, $72.37 ," $61,876.35 ",1132,0,Media
+2022-12,P011,Naproxeno 500mg,Antiinflamatorio,777, $72.58 ," $56,394.66 ",1531,0,Alta
+2023-01,P011,Naproxeno 500mg,Antiinflamatorio,789, $72.80 ," $57,439.20 ",1107,0,Media
+2023-02,P011,Naproxeno 500mg,Antiinflamatorio,883, $73.02 ," $64,476.66 ",1763,0,Media
+2023-03,P011,Naproxeno 500mg,Antiinflamatorio,772, $73.23 ," $56,533.56 ",1393,0,Media
+2023-04,P011,Naproxeno 500mg,Antiinflamatorio,769, $73.45 ," $56,483.05 ",1210,0,Media
+2023-05,P011,Naproxeno 500mg,Antiinflamatorio,773, $73.67 ," $56,946.91 ",1006,0,Media
+2023-06,P011,Naproxeno 500mg,Antiinflamatorio,730, $73.88 ," $53,932.40 ",1354,1,Media
+2023-07,P011,Naproxeno 500mg,Antiinflamatorio,789, $74.10 ," $58,464.90 ",1291,0,Media
+2023-08,P011,Naproxeno 500mg,Antiinflamatorio,694, $74.32 ," $51,578.08 ",1183,0,Media
+2023-09,P011,Naproxeno 500mg,Antiinflamatorio,788, $74.53 ," $58,729.64 ",1357,0,Media
+2023-10,P011,Naproxeno 500mg,Antiinflamatorio,852, $74.75 ," $63,687.00 ",1268,0,Media
+2023-11,P011,Naproxeno 500mg,Antiinflamatorio,826, $74.97 ," $61,925.22 ",1118,1,Media
+2023-12,P011,Naproxeno 500mg,Antiinflamatorio,826, $75.18 ," $62,098.68 ",1527,0,Alta
+2024-01,P011,Naproxeno 500mg,Antiinflamatorio,905, $75.40 ," $68,237.00 ",1504,0,Media
+2024-02,P011,Naproxeno 500mg,Antiinflamatorio,762, $75.62 ," $57,622.44 ",1165,0,Media
+2024-03,P011,Naproxeno 500mg,Antiinflamatorio,723, $75.83 ," $54,825.09 ",1051,0,Media
+2024-04,P011,Naproxeno 500mg,Antiinflamatorio,817, $76.05 ," $62,132.85 ",1633,0,Media
+2024-05,P011,Naproxeno 500mg,Antiinflamatorio,785, $76.27 ," $59,871.95 ",1251,0,Media
+2024-06,P011,Naproxeno 500mg,Antiinflamatorio,830, $76.48 ," $63,478.40 ",1147,0,Media
+2024-07,P011,Naproxeno 500mg,Antiinflamatorio,859, $76.70 ," $65,885.30 ",1347,0,Media
+2024-08,P011,Naproxeno 500mg,Antiinflamatorio,813, $76.92 ," $62,535.96 ",1161,0,Media
+2024-09,P011,Naproxeno 500mg,Antiinflamatorio,766, $77.13 ," $59,081.58 ",1009,1,Media
+2024-10,P011,Naproxeno 500mg,Antiinflamatorio,880, $77.35 ," $68,068.00 ",1312,0,Media
+2024-11,P011,Naproxeno 500mg,Antiinflamatorio,808, $77.57 ," $62,676.56 ",1582,0,Media
+2024-12,P011,Naproxeno 500mg,Antiinflamatorio,868, $77.78 ," $67,513.04 ",1658,0,Alta
+2020-01,P012,Azitromicina 500mg,Antibiotico,443, $120.00 ," $53,160.00 ",824,0,Alta
+2020-02,P012,Azitromicina 500mg,Antibiotico,459, $120.40 ," $55,263.60 ",639,1,Alta
+2020-03,P012,Azitromicina 500mg,Antibiotico,445, $120.80 ," $53,756.00 ",733,0,Media
+2020-04,P012,Azitromicina 500mg,Antibiotico,403, $121.20 ," $48,843.60 ",739,0,Baja
+2020-05,P012,Azitromicina 500mg,Antibiotico,373, $121.60 ," $45,356.80 ",520,0,Baja
+2020-06,P012,Azitromicina 500mg,Antibiotico,399, $122.00 ," $48,678.00 ",785,1,Baja
+2020-07,P012,Azitromicina 500mg,Antibiotico,362, $122.40 ," $44,308.80 ",542,0,Media
+2020-08,P012,Azitromicina 500mg,Antibiotico,382, $122.80 ," $46,909.60 ",738,0,Media
+2020-09,P012,Azitromicina 500mg,Antibiotico,385, $123.20 ," $47,432.00 ",705,0,Media
+2020-10,P012,Azitromicina 500mg,Antibiotico,457, $123.60 ," $56,485.20 ",615,0,Media
+2020-11,P012,Azitromicina 500mg,Antibiotico,418, $124.00 ," $51,832.00 ",561,0,Alta
+2020-12,P012,Azitromicina 500mg,Antibiotico,469, $124.40 ," $58,343.60 ",784,0,Alta
+2021-01,P012,Azitromicina 500mg,Antibiotico,476, $124.80 ," $59,404.80 ",918,1,Alta
+2021-02,P012,Azitromicina 500mg,Antibiotico,493, $125.20 ," $61,723.60 ",973,0,Alta
+2021-03,P012,Azitromicina 500mg,Antibiotico,480, $125.60 ," $60,288.00 ",641,0,Media
+2021-04,P012,Azitromicina 500mg,Antibiotico,371, $126.00 ," $46,746.00 ",672,0,Baja
+2021-05,P012,Azitromicina 500mg,Antibiotico,352, $126.40 ," $44,492.80 ",618,0,Baja
+2021-06,P012,Azitromicina 500mg,Antibiotico,402, $126.80 ," $50,973.60 ",653,0,Baja
+2021-07,P012,Azitromicina 500mg,Antibiotico,428, $127.20 ," $54,441.60 ",661,1,Media
+2021-08,P012,Azitromicina 500mg,Antibiotico,383, $127.60 ," $48,870.80 ",558,0,Media
+2021-09,P012,Azitromicina 500mg,Antibiotico,455, $128.00 ," $58,240.00 ",770,0,Media
+2021-10,P012,Azitromicina 500mg,Antibiotico,401, $128.40 ," $51,488.40 ",762,0,Media
+2021-11,P012,Azitromicina 500mg,Antibiotico,434, $128.80 ," $55,899.20 ",779,0,Alta
+2021-12,P012,Azitromicina 500mg,Antibiotico,475, $129.20 ," $61,370.00 ",769,0,Alta
+2022-01,P012,Azitromicina 500mg,Antibiotico,467, $129.60 ," $60,523.20 ",916,0,Alta
+2022-02,P012,Azitromicina 500mg,Antibiotico,508, $130.00 ," $66,040.00 ",824,0,Alta
+2022-03,P012,Azitromicina 500mg,Antibiotico,463, $130.40 ," $60,375.20 ",778,1,Media
+2022-04,P012,Azitromicina 500mg,Antibiotico,406, $130.80 ," $53,104.80 ",756,0,Baja
+2022-05,P012,Azitromicina 500mg,Antibiotico,343, $131.20 ," $45,001.60 ",634,0,Baja
+2022-06,P012,Azitromicina 500mg,Antibiotico,383, $131.60 ," $50,402.80 ",542,0,Baja
+2022-07,P012,Azitromicina 500mg,Antibiotico,456, $132.00 ," $60,192.00 ",758,0,Media
+2022-08,P012,Azitromicina 500mg,Antibiotico,470, $132.40 ," $62,228.00 ",900,0,Media
+2022-09,P012,Azitromicina 500mg,Antibiotico,404, $132.80 ," $53,651.20 ",652,0,Media
+2022-10,P012,Azitromicina 500mg,Antibiotico,484, $133.20 ," $64,468.80 ",638,1,Media
+2022-11,P012,Azitromicina 500mg,Antibiotico,494, $133.60 ," $65,998.40 ",956,0,Alta
+2022-12,P012,Azitromicina 500mg,Antibiotico,543, $134.00 ," $72,762.00 ",745,0,Alta
+2023-01,P012,Azitromicina 500mg,Antibiotico,563, $134.40 ," $75,667.20 ",881,0,Alta
+2023-02,P012,Azitromicina 500mg,Antibiotico,558, $134.80 ," $75,218.40 ",804,0,Alta
+2023-03,P012,Azitromicina 500mg,Antibiotico,436, $135.20 ," $58,947.20 ",808,0,Media
+2023-04,P012,Azitromicina 500mg,Antibiotico,430, $135.60 ," $58,308.00 ",799,0,Baja
+2023-05,P012,Azitromicina 500mg,Antibiotico,435, $136.00 ," $59,160.00 ",727,0,Baja
+2023-06,P012,Azitromicina 500mg,Antibiotico,438, $136.40 ," $59,743.20 ",812,0,Baja
+2023-07,P012,Azitromicina 500mg,Antibiotico,479, $136.80 ," $65,527.20 ",926,0,Media
+2023-08,P012,Azitromicina 500mg,Antibiotico,494, $137.20 ," $67,776.80 ",690,0,Media
+2023-09,P012,Azitromicina 500mg,Antibiotico,410, $137.60 ," $56,416.00 ",789,0,Media
+2023-10,P012,Azitromicina 500mg,Antibiotico,428, $138.00 ," $59,064.00 ",688,0,Media
+2023-11,P012,Azitromicina 500mg,Antibiotico,461, $138.40 ," $63,802.40 ",884,0,Alta
+2023-12,P012,Azitromicina 500mg,Antibiotico,559, $138.80 ," $77,589.20 ",1105,0,Alta
+2024-01,P012,Azitromicina 500mg,Antibiotico,600, $139.20 ," $83,520.00 ",1060,0,Alta
+2024-02,P012,Azitromicina 500mg,Antibiotico,474, $139.60 ," $66,170.40 ",908,0,Alta
+2024-03,P012,Azitromicina 500mg,Antibiotico,434, $140.00 ," $60,760.00 ",568,0,Media
+2024-04,P012,Azitromicina 500mg,Antibiotico,431, $140.40 ," $60,512.40 ",777,0,Baja
+2024-05,P012,Azitromicina 500mg,Antibiotico,365, $140.80 ," $51,392.00 ",661,0,Baja
+2024-06,P012,Azitromicina 500mg,Antibiotico,467, $141.20 ," $65,940.40 ",874,0,Baja
+2024-07,P012,Azitromicina 500mg,Antibiotico,476, $141.60 ," $67,401.60 ",723,0,Media
+2024-08,P012,Azitromicina 500mg,Antibiotico,490, $142.00 ," $69,580.00 ",794,0,Media
+2024-09,P012,Azitromicina 500mg,Antibiotico,455, $142.40 ," $64,792.00 ",855,0,Media
+2024-10,P012,Azitromicina 500mg,Antibiotico,442, $142.80 ," $63,117.60 ",794,0,Media
+2024-11,P012,Azitromicina 500mg,Antibiotico,476, $143.20 ," $68,163.20 ",698,1,Alta
+2024-12,P012,Azitromicina 500mg,Antibiotico,552, $143.60 ," $79,267.20 ",891,0,Alta
+2020-01,P013,Enalapril 10mg,Cronico,829, $55.00 ," $45,595.00 ",1438,0,Media
+2020-02,P013,Enalapril 10mg,Cronico,867, $55.18 ," $47,841.06 ",1413,0,Media
+2020-03,P013,Enalapril 10mg,Cronico,829, $55.37 ," $45,901.73 ",1150,0,Media
+2020-04,P013,Enalapril 10mg,Cronico,772, $55.55 ," $42,884.60 ",1374,1,Media
+2020-05,P013,Enalapril 10mg,Cronico,744, $55.73 ," $41,463.12 ",1412,0,Media
+2020-06,P013,Enalapril 10mg,Cronico,875, $55.92 ," $48,930.00 ",1308,0,Media
+2020-07,P013,Enalapril 10mg,Cronico,849, $56.10 ," $47,628.90 ",1408,0,Media
+2020-08,P013,Enalapril 10mg,Cronico,757, $56.28 ," $42,603.96 ",1001,0,Media
+2020-09,P013,Enalapril 10mg,Cronico,845, $56.47 ," $47,717.15 ",1653,0,Media
+2020-10,P013,Enalapril 10mg,Cronico,870, $56.65 ," $49,285.50 ",1611,0,Media
+2020-11,P013,Enalapril 10mg,Cronico,772, $56.83 ," $43,872.76 ",1493,0,Media
+2020-12,P013,Enalapril 10mg,Cronico,833, $57.02 ," $47,497.66 ",1147,0,Media
+2021-01,P013,Enalapril 10mg,Cronico,816, $57.20 ," $46,675.20 ",1554,0,Media
+2021-02,P013,Enalapril 10mg,Cronico,802, $57.38 ," $46,018.76 ",1590,1,Media
+2021-03,P013,Enalapril 10mg,Cronico,812, $57.57 ," $46,746.84 ",1079,0,Media
+2021-04,P013,Enalapril 10mg,Cronico,913, $57.75 ," $52,725.75 ",1365,0,Media
+2021-05,P013,Enalapril 10mg,Cronico,790, $57.93 ," $45,764.70 ",1530,0,Media
+2021-06,P013,Enalapril 10mg,Cronico,895, $58.12 ," $52,017.40 ",1174,0,Media
+2021-07,P013,Enalapril 10mg,Cronico,881, $58.30 ," $51,362.30 ",1333,0,Media
+2021-08,P013,Enalapril 10mg,Cronico,794, $58.48 ," $46,433.12 ",1517,1,Media
+2021-09,P013,Enalapril 10mg,Cronico,881, $58.67 ," $51,688.27 ",1478,1,Media
+2021-10,P013,Enalapril 10mg,Cronico,789, $58.85 ," $46,432.65 ",1032,0,Media
+2021-11,P013,Enalapril 10mg,Cronico,803, $59.03 ," $47,401.09 ",1380,0,Media
+2021-12,P013,Enalapril 10mg,Cronico,805, $59.22 ," $47,672.10 ",1465,1,Media
+2022-01,P013,Enalapril 10mg,Cronico,929, $59.40 ," $55,182.60 ",1761,0,Media
+2022-02,P013,Enalapril 10mg,Cronico,869, $59.58 ," $51,775.02 ",1672,0,Media
+2022-03,P013,Enalapril 10mg,Cronico,765, $59.77 ," $45,724.05 ",1122,0,Media
+2022-04,P013,Enalapril 10mg,Cronico,758, $59.95 ," $45,442.10 ",1294,0,Media
+2022-05,P013,Enalapril 10mg,Cronico,929, $60.13 ," $55,860.77 ",1546,1,Media
+2022-06,P013,Enalapril 10mg,Cronico,926, $60.32 ," $55,856.32 ",1592,1,Media
+2022-07,P013,Enalapril 10mg,Cronico,776, $60.50 ," $46,948.00 ",1502,0,Media
+2022-08,P013,Enalapril 10mg,Cronico,930, $60.68 ," $56,432.40 ",1781,0,Media
+2022-09,P013,Enalapril 10mg,Cronico,867, $60.87 ," $52,774.29 ",1388,0,Media
+2022-10,P013,Enalapril 10mg,Cronico,852, $61.05 ," $52,014.60 ",1569,0,Media
+2022-11,P013,Enalapril 10mg,Cronico,949, $61.23 ," $58,107.27 ",1528,0,Media
+2022-12,P013,Enalapril 10mg,Cronico,897, $61.42 ," $55,093.74 ",1537,0,Media
+2023-01,P013,Enalapril 10mg,Cronico,817, $61.60 ," $50,327.20 ",1355,1,Media
+2023-02,P013,Enalapril 10mg,Cronico,849, $61.78 ," $52,451.22 ",1393,0,Media
+2023-03,P013,Enalapril 10mg,Cronico,970, $61.97 ," $60,110.90 ",1668,0,Media
+2023-04,P013,Enalapril 10mg,Cronico,879, $62.15 ," $54,629.85 ",1532,1,Media
+2023-05,P013,Enalapril 10mg,Cronico,828, $62.33 ," $51,609.24 ",1286,0,Media
+2023-06,P013,Enalapril 10mg,Cronico,785, $62.52 ," $49,078.20 ",1097,0,Media
+2023-07,P013,Enalapril 10mg,Cronico,984, $62.70 ," $61,696.80 ",1507,0,Media
+2023-08,P013,Enalapril 10mg,Cronico,821, $62.88 ," $51,624.48 ",1418,0,Media
+2023-09,P013,Enalapril 10mg,Cronico,825, $63.07 ," $52,032.75 ",1370,1,Media
+2023-10,P013,Enalapril 10mg,Cronico,784, $63.25 ," $49,588.00 ",1139,1,Media
+2023-11,P013,Enalapril 10mg,Cronico,808, $63.43 ," $51,251.44 ",1242,0,Media
+2023-12,P013,Enalapril 10mg,Cronico,909, $63.62 ," $57,830.58 ",1507,0,Media
+2024-01,P013,Enalapril 10mg,Cronico,988, $63.80 ," $63,034.40 ",1558,1,Media
+2024-02,P013,Enalapril 10mg,Cronico,923, $63.98 ," $59,053.54 ",1273,0,Media
+2024-03,P013,Enalapril 10mg,Cronico,901, $64.17 ," $57,817.17 ",1722,0,Media
+2024-04,P013,Enalapril 10mg,Cronico,945, $64.35 ," $60,810.75 ",1885,1,Media
+2024-05,P013,Enalapril 10mg,Cronico,855, $64.53 ," $55,173.15 ",1347,0,Media
+2024-06,P013,Enalapril 10mg,Cronico,886, $64.72 ," $57,341.92 ",1714,0,Media
+2024-07,P013,Enalapril 10mg,Cronico,931, $64.90 ," $60,421.90 ",1411,0,Media
+2024-08,P013,Enalapril 10mg,Cronico,1009, $65.08 ," $65,665.72 ",1891,1,Media
+2024-09,P013,Enalapril 10mg,Cronico,941, $65.27 ," $61,419.07 ",1256,0,Media
+2024-10,P013,Enalapril 10mg,Cronico,817, $65.45 ," $53,472.65 ",1407,0,Media
+2024-11,P013,Enalapril 10mg,Cronico,831, $65.63 ," $54,538.53 ",1303,0,Media
+2024-12,P013,Enalapril 10mg,Cronico,889, $65.82 ," $58,513.98 ",1231,0,Media
+2020-01,P014,Salbutamol inhalador,Cronico,572, $150.00 ," $85,800.00 ",772,1,Alta
+2020-02,P014,Salbutamol inhalador,Cronico,500, $150.50 ," $75,250.00 ",979,0,Alta
+2020-03,P014,Salbutamol inhalador,Cronico,495, $151.00 ," $74,745.00 ",768,0,Media
+2020-04,P014,Salbutamol inhalador,Cronico,380, $151.50 ," $57,570.00 ",663,0,Baja
+2020-05,P014,Salbutamol inhalador,Cronico,420, $152.00 ," $63,840.00 ",802,0,Baja
+2020-06,P014,Salbutamol inhalador,Cronico,393, $152.50 ," $59,932.50 ",759,1,Baja
+2020-07,P014,Salbutamol inhalador,Cronico,460, $153.00 ," $70,380.00 ",643,1,Media
+2020-08,P014,Salbutamol inhalador,Cronico,449, $153.50 ," $68,921.50 ",676,0,Media
+2020-09,P014,Salbutamol inhalador,Cronico,467, $154.00 ," $71,918.00 ",621,1,Media
+2020-10,P014,Salbutamol inhalador,Cronico,489, $154.50 ," $75,550.50 ",753,0,Media
+2020-11,P014,Salbutamol inhalador,Cronico,549, $155.00 ," $85,095.00 ",1038,0,Alta
+2020-12,P014,Salbutamol inhalador,Cronico,568, $155.50 ," $88,324.00 ",1005,0,Alta
+2021-01,P014,Salbutamol inhalador,Cronico,530, $156.00 ," $82,680.00 ",981,0,Alta
+2021-02,P014,Salbutamol inhalador,Cronico,572, $156.50 ," $89,518.00 ",1072,0,Alta
+2021-03,P014,Salbutamol inhalador,Cronico,537, $157.00 ," $84,309.00 ",860,0,Media
+2021-04,P014,Salbutamol inhalador,Cronico,452, $157.50 ," $71,190.00 ",705,0,Baja
+2021-05,P014,Salbutamol inhalador,Cronico,441, $158.00 ," $69,678.00 ",785,0,Baja
+2021-06,P014,Salbutamol inhalador,Cronico,410, $158.50 ," $64,985.00 ",656,1,Baja
+2021-07,P014,Salbutamol inhalador,Cronico,514, $159.00 ," $81,726.00 ",792,0,Media
+2021-08,P014,Salbutamol inhalador,Cronico,417, $159.50 ," $66,511.50 ",730,0,Media
+2021-09,P014,Salbutamol inhalador,Cronico,454, $160.00 ," $72,640.00 ",612,0,Media
+2021-10,P014,Salbutamol inhalador,Cronico,474, $160.50 ," $76,077.00 ",840,0,Media
+2021-11,P014,Salbutamol inhalador,Cronico,528, $161.00 ," $85,008.00 ",766,0,Alta
+2021-12,P014,Salbutamol inhalador,Cronico,588, $161.50 ," $94,962.00 ",1047,1,Alta
+2022-01,P014,Salbutamol inhalador,Cronico,570, $162.00 ," $92,340.00 ",751,0,Alta
+2022-02,P014,Salbutamol inhalador,Cronico,611, $162.50 ," $99,287.50 ",958,1,Alta
+2022-03,P014,Salbutamol inhalador,Cronico,446, $163.00 ," $72,698.00 ",700,0,Media
+2022-04,P014,Salbutamol inhalador,Cronico,404, $163.50 ," $66,054.00 ",739,0,Baja
+2022-05,P014,Salbutamol inhalador,Cronico,411, $164.00 ," $67,404.00 ",793,1,Baja
+2022-06,P014,Salbutamol inhalador,Cronico,508, $164.50 ," $83,566.00 ",772,0,Baja
+2022-07,P014,Salbutamol inhalador,Cronico,495, $165.00 ," $81,675.00 ",929,0,Media
+2022-08,P014,Salbutamol inhalador,Cronico,460, $165.50 ," $76,130.00 ",907,0,Media
+2022-09,P014,Salbutamol inhalador,Cronico,472, $166.00 ," $78,352.00 ",726,0,Media
+2022-10,P014,Salbutamol inhalador,Cronico,469, $166.50 ," $78,088.50 ",791,0,Media
+2022-11,P014,Salbutamol inhalador,Cronico,596, $167.00 ," $99,532.00 ",1122,0,Alta
+2022-12,P014,Salbutamol inhalador,Cronico,582, $167.50 ," $97,485.00 ",862,0,Alta
+2023-01,P014,Salbutamol inhalador,Cronico,526, $168.00 ," $88,368.00 ",809,0,Alta
+2023-02,P014,Salbutamol inhalador,Cronico,628, $168.50 ," $105,818.00 ",1061,0,Alta
+2023-03,P014,Salbutamol inhalador,Cronico,527, $169.00 ," $89,063.00 ",736,0,Media
+2023-04,P014,Salbutamol inhalador,Cronico,483, $169.50 ," $81,868.50 ",793,0,Baja
+2023-05,P014,Salbutamol inhalador,Cronico,498, $170.00 ," $84,660.00 ",954,0,Baja
+2023-06,P014,Salbutamol inhalador,Cronico,479, $170.50 ," $81,669.50 ",830,0,Baja
+2023-07,P014,Salbutamol inhalador,Cronico,484, $171.00 ," $82,764.00 ",642,0,Media
+2023-08,P014,Salbutamol inhalador,Cronico,503, $171.50 ," $86,264.50 ",734,0,Media
+2023-09,P014,Salbutamol inhalador,Cronico,548, $172.00 ," $94,256.00 ",989,0,Media
+2023-10,P014,Salbutamol inhalador,Cronico,572, $172.50 ," $98,670.00 ",795,0,Media
+2023-11,P014,Salbutamol inhalador,Cronico,525, $173.00 ," $90,825.00 ",974,0,Alta
+2023-12,P014,Salbutamol inhalador,Cronico,685, $173.50 ," $118,847.50 ",1343,1,Alta
+2024-01,P014,Salbutamol inhalador,Cronico,599, $174.00 ," $104,226.00 ",1190,0,Alta
+2024-02,P014,Salbutamol inhalador,Cronico,631, $174.50 ," $110,109.50 ",1080,0,Alta
+2024-03,P014,Salbutamol inhalador,Cronico,504, $175.00 ," $88,200.00 ",726,0,Media
+2024-04,P014,Salbutamol inhalador,Cronico,468, $175.50 ," $82,134.00 ",775,0,Baja
+2024-05,P014,Salbutamol inhalador,Cronico,466, $176.00 ," $82,016.00 ",888,0,Baja
+2024-06,P014,Salbutamol inhalador,Cronico,473, $176.50 ," $83,484.50 ",888,0,Baja
+2024-07,P014,Salbutamol inhalador,Cronico,519, $177.00 ," $91,863.00 ",1022,0,Media
+2024-08,P014,Salbutamol inhalador,Cronico,463, $177.50 ," $82,182.50 ",878,0,Media
+2024-09,P014,Salbutamol inhalador,Cronico,555, $178.00 ," $98,790.00 ",1068,1,Media
+2024-10,P014,Salbutamol inhalador,Cronico,589, $178.50 ," $105,136.50 ",950,0,Media
+2024-11,P014,Salbutamol inhalador,Cronico,610, $179.00 ," $109,190.00 ",1188,1,Alta
+2024-12,P014,Salbutamol inhalador,Cronico,641, $179.50 ," $115,059.50 ",1141,0,Alta
+2020-01,P015,Multivitaminico,Vitaminas,960, $90.00 ," $86,400.00 ",1338,0,Media
+2020-02,P015,Multivitaminico,Vitaminas,872, $90.30 ," $78,741.60 ",1624,0,Media
+2020-03,P015,Multivitaminico,Vitaminas,810, $90.60 ," $73,386.00 ",1595,1,Media
+2020-04,P015,Multivitaminico,Vitaminas,939, $90.90 ," $85,355.10 ",1665,0,Media
+2020-05,P015,Multivitaminico,Vitaminas,783, $91.20 ," $71,409.60 ",1025,0,Media
+2020-06,P015,Multivitaminico,Vitaminas,911, $91.50 ," $83,356.50 ",1656,1,Media
+2020-07,P015,Multivitaminico,Vitaminas,915, $91.80 ," $83,997.00 ",1681,0,Media
+2020-08,P015,Multivitaminico,Vitaminas,920, $92.10 ," $84,732.00 ",1740,0,Media
+2020-09,P015,Multivitaminico,Vitaminas,781, $92.40 ," $72,164.40 ",1281,1,Media
+2020-10,P015,Multivitaminico,Vitaminas,866, $92.70 ," $80,278.20 ",1372,1,Media
+2020-11,P015,Multivitaminico,Vitaminas,890, $93.00 ," $82,770.00 ",1226,0,Media
+2020-12,P015,Multivitaminico,Vitaminas,1063, $93.30 ," $99,177.90 ",1435,0,Alta
+2021-01,P015,Multivitaminico,Vitaminas,950, $93.60 ," $88,920.00 ",1434,1,Media
+2021-02,P015,Multivitaminico,Vitaminas,930, $93.90 ," $87,327.00 ",1726,0,Media
+2021-03,P015,Multivitaminico,Vitaminas,800, $94.20 ," $75,360.00 ",1080,0,Media
+2021-04,P015,Multivitaminico,Vitaminas,821, $94.50 ," $77,584.50 ",1200,0,Media
+2021-05,P015,Multivitaminico,Vitaminas,910, $94.80 ," $86,268.00 ",1774,0,Media
+2021-06,P015,Multivitaminico,Vitaminas,953, $95.10 ," $90,630.30 ",1453,0,Media
+2021-07,P015,Multivitaminico,Vitaminas,829, $95.40 ," $79,086.60 ",1449,0,Media
+2021-08,P015,Multivitaminico,Vitaminas,912, $95.70 ," $87,278.40 ",1414,0,Media
+2021-09,P015,Multivitaminico,Vitaminas,811, $96.00 ," $77,856.00 ",1558,0,Media
+2021-10,P015,Multivitaminico,Vitaminas,901, $96.30 ," $86,766.30 ",1540,0,Media
+2021-11,P015,Multivitaminico,Vitaminas,852, $96.60 ," $82,303.20 ",1514,0,Media
+2021-12,P015,Multivitaminico,Vitaminas,1039, $96.90 ," $100,679.10 ",1948,0,Alta
+2022-01,P015,Multivitaminico,Vitaminas,985, $97.20 ," $95,742.00 ",1639,1,Media
+2022-02,P015,Multivitaminico,Vitaminas,1020, $97.50 ," $99,450.00 ",1519,0,Media
+2022-03,P015,Multivitaminico,Vitaminas,875, $97.80 ," $85,575.00 ",1219,0,Media
+2022-04,P015,Multivitaminico,Vitaminas,794, $98.10 ," $77,891.40 ",1448,0,Media
+2022-05,P015,Multivitaminico,Vitaminas,768, $98.40 ," $75,571.20 ",1273,1,Media
+2022-06,P015,Multivitaminico,Vitaminas,845, $98.70 ," $83,401.50 ",1516,1,Media
+2022-07,P015,Multivitaminico,Vitaminas,988, $99.00 ," $97,812.00 ",1287,0,Media
+2022-08,P015,Multivitaminico,Vitaminas,968, $99.30 ," $96,122.40 ",1472,1,Media
+2022-09,P015,Multivitaminico,Vitaminas,887, $99.60 ," $88,345.20 ",1320,0,Media
+2022-10,P015,Multivitaminico,Vitaminas,896, $99.90 ," $89,510.40 ",1659,0,Media
+2022-11,P015,Multivitaminico,Vitaminas,962, $100.20 ," $96,392.40 ",1863,0,Media
+2022-12,P015,Multivitaminico,Vitaminas,1130, $100.50 ," $113,565.00 ",1539,0,Alta
+2023-01,P015,Multivitaminico,Vitaminas,999, $100.80 ," $100,699.20 ",1569,0,Media
+2023-02,P015,Multivitaminico,Vitaminas,1032, $101.10 ," $104,335.20 ",1344,0,Media
+2023-03,P015,Multivitaminico,Vitaminas,997, $101.40 ," $101,095.80 ",1761,0,Media
+2023-04,P015,Multivitaminico,Vitaminas,971, $101.70 ," $98,750.70 ",1908,0,Media
+2023-05,P015,Multivitaminico,Vitaminas,854, $102.00 ," $87,108.00 ",1173,0,Media
+2023-06,P015,Multivitaminico,Vitaminas,950, $102.30 ," $97,185.00 ",1267,0,Media
+2023-07,P015,Multivitaminico,Vitaminas,1042, $102.60 ," $106,909.20 ",1719,0,Media
+2023-08,P015,Multivitaminico,Vitaminas,931, $102.90 ," $95,799.90 ",1346,0,Media
+2023-09,P015,Multivitaminico,Vitaminas,914, $103.20 ," $94,324.80 ",1221,0,Media
+2023-10,P015,Multivitaminico,Vitaminas,945, $103.50 ," $97,807.50 ",1772,0,Media
+2023-11,P015,Multivitaminico,Vitaminas,935, $103.80 ," $97,053.00 ",1645,0,Media
+2023-12,P015,Multivitaminico,Vitaminas,1140, $104.10 ," $118,674.00 ",1654,0,Alta
+2024-01,P015,Multivitaminico,Vitaminas,1054, $104.40 ," $110,037.60 ",1588,1,Media
+2024-02,P015,Multivitaminico,Vitaminas,1048, $104.70 ," $109,725.60 ",1904,0,Media
+2024-03,P015,Multivitaminico,Vitaminas,1009, $105.00 ," $105,945.00 ",1590,0,Media
+2024-04,P015,Multivitaminico,Vitaminas,871, $105.30 ," $91,716.30 ",1675,0,Media
+2024-05,P015,Multivitaminico,Vitaminas,892, $105.60 ," $94,195.20 ",1195,1,Media
+2024-06,P015,Multivitaminico,Vitaminas,946, $105.90 ," $100,181.40 ",1406,0,Media
+2024-07,P015,Multivitaminico,Vitaminas,852, $106.20 ," $90,482.40 ",1333,0,Media
+2024-08,P015,Multivitaminico,Vitaminas,855, $106.50 ," $91,057.50 ",1185,0,Media
+2024-09,P015,Multivitaminico,Vitaminas,967, $106.80 ," $103,275.60 ",1530,0,Media
+2024-10,P015,Multivitaminico,Vitaminas,1013, $107.10 ," $108,492.30 ",1323,0,Media
+2024-11,P015,Multivitaminico,Vitaminas,1146, $107.40 ," $123,080.40 ",1906,0,Media
+2024-12,P015,Multivitaminico,Vitaminas,1024, $107.70 ," $110,284.80 ",1885,0,Alta
+2020-01,P016,Acido falico 5mg,Vitaminas,1105, $28.00 ," $30,940.00 ",2191,1,Media
+2020-02,P016,Acido falico 5mg,Vitaminas,974, $28.09 ," $27,359.66 ",1791,0,Media
+2020-03,P016,Acido falico 5mg,Vitaminas,1004, $28.19 ," $28,302.76 ",1491,1,Media
+2020-04,P016,Acido falico 5mg,Vitaminas,1053, $28.28 ," $29,778.84 ",1938,0,Media
+2020-05,P016,Acido falico 5mg,Vitaminas,1070, $28.37 ," $30,355.90 ",1669,1,Media
+2020-06,P016,Acido falico 5mg,Vitaminas,1060, $28.47 ," $30,178.20 ",1857,0,Media
+2020-07,P016,Acido falico 5mg,Vitaminas,1209, $28.56 ," $34,529.04 ",1591,0,Media
+2020-08,P016,Acido falico 5mg,Vitaminas,1195, $28.65 ," $34,236.75 ",2206,0,Media
+2020-09,P016,Acido falico 5mg,Vitaminas,1094, $28.75 ," $31,452.50 ",1654,1,Media
+2020-10,P016,Acido falico 5mg,Vitaminas,1051, $28.84 ," $30,310.84 ",1547,0,Media
+2020-11,P016,Acido falico 5mg,Vitaminas,1194, $28.93 ," $34,542.42 ",1948,1,Media
+2020-12,P016,Acido falico 5mg,Vitaminas,1254, $29.03 ," $36,403.62 ",2457,0,Media
+2021-01,P016,Acido falico 5mg,Vitaminas,1266, $29.12 ," $36,865.92 ",2128,0,Media
+2021-02,P016,Acido falico 5mg,Vitaminas,1020, $29.21 ," $29,794.20 ",1587,0,Media
+2021-03,P016,Acido falico 5mg,Vitaminas,1055, $29.31 ," $30,922.05 ",1475,0,Media
+2021-04,P016,Acido falico 5mg,Vitaminas,1218, $29.40 ," $35,809.20 ",2076,1,Media
+2021-05,P016,Acido falico 5mg,Vitaminas,1229, $29.49 ," $36,243.21 ",2144,0,Media
+2021-06,P016,Acido falico 5mg,Vitaminas,1194, $29.59 ," $35,330.46 ",1769,0,Media
+2021-07,P016,Acido falico 5mg,Vitaminas,1264, $29.68 ," $37,515.52 ",1900,0,Media
+2021-08,P016,Acido falico 5mg,Vitaminas,1260, $29.77 ," $37,510.20 ",2262,1,Media
+2021-09,P016,Acido falico 5mg,Vitaminas,1057, $29.87 ," $31,572.59 ",1379,0,Media
+2021-10,P016,Acido falico 5mg,Vitaminas,1143, $29.96 ," $34,244.28 ",1593,0,Media
+2021-11,P016,Acido falico 5mg,Vitaminas,1168, $30.05 ," $35,098.40 ",1716,0,Media
+2021-12,P016,Acido falico 5mg,Vitaminas,1213, $30.15 ," $36,571.95 ",1641,0,Media
+2022-01,P016,Acido falico 5mg,Vitaminas,1251, $30.24 ," $37,830.24 ",2028,0,Media
+2022-02,P016,Acido falico 5mg,Vitaminas,1149, $30.33 ," $34,849.17 ",1529,0,Media
+2022-03,P016,Acido falico 5mg,Vitaminas,1156, $30.43 ," $35,177.08 ",1672,1,Media
+2022-04,P016,Acido falico 5mg,Vitaminas,1271, $30.52 ," $38,790.92 ",2525,0,Media
+2022-05,P016,Acido falico 5mg,Vitaminas,1276, $30.61 ," $39,058.36 ",1874,0,Media
+2022-06,P016,Acido falico 5mg,Vitaminas,1093, $30.71 ," $33,566.03 ",2148,0,Media
+2022-07,P016,Acido falico 5mg,Vitaminas,1242, $30.80 ," $38,253.60 ",2467,0,Media
+2022-08,P016,Acido falico 5mg,Vitaminas,1116, $30.89 ," $34,473.24 ",1792,0,Media
+2022-09,P016,Acido falico 5mg,Vitaminas,1066, $30.99 ," $33,035.34 ",1850,0,Media
+2022-10,P016,Acido falico 5mg,Vitaminas,1102, $31.08 ," $34,250.16 ",2044,0,Media
+2022-11,P016,Acido falico 5mg,Vitaminas,1320, $31.17 ," $41,144.40 ",2603,0,Media
+2022-12,P016,Acido falico 5mg,Vitaminas,1333, $31.27 ," $41,682.91 ",2439,0,Media
+2023-01,P016,Acido falico 5mg,Vitaminas,1192, $31.36 ," $37,381.12 ",2148,0,Media
+2023-02,P016,Acido falico 5mg,Vitaminas,1242, $31.45 ," $39,060.90 ",2194,0,Media
+2023-03,P016,Acido falico 5mg,Vitaminas,1223, $31.55 ," $38,585.65 ",2250,0,Media
+2023-04,P016,Acido falico 5mg,Vitaminas,1065, $31.64 ," $33,696.60 ",1391,0,Media
+2023-05,P016,Acido falico 5mg,Vitaminas,1333, $31.73 ," $42,296.09 ",1946,0,Media
+2023-06,P016,Acido falico 5mg,Vitaminas,1131, $31.83 ," $35,999.73 ",1724,0,Media
+2023-07,P016,Acido falico 5mg,Vitaminas,1282, $31.92 ," $40,921.44 ",1752,0,Media
+2023-08,P016,Acido falico 5mg,Vitaminas,1080, $32.01 ," $34,570.80 ",1767,0,Media
+2023-09,P016,Acido falico 5mg,Vitaminas,1109, $32.11 ," $35,609.99 ",1665,0,Media
+2023-10,P016,Acido falico 5mg,Vitaminas,1346, $32.20 ," $43,341.20 ",2685,1,Media
+2023-11,P016,Acido falico 5mg,Vitaminas,1303, $32.29 ," $42,073.87 ",2032,0,Media
+2023-12,P016,Acido falico 5mg,Vitaminas,1304, $32.39 ," $42,236.56 ",2533,0,Media
+2024-01,P016,Acido falico 5mg,Vitaminas,1254, $32.48 ," $40,729.92 ",1943,0,Media
+2024-02,P016,Acido falico 5mg,Vitaminas,1160, $32.57 ," $37,781.20 ",1966,0,Media
+2024-03,P016,Acido falico 5mg,Vitaminas,1284, $32.67 ," $41,948.28 ",1885,0,Media
+2024-04,P016,Acido falico 5mg,Vitaminas,1364, $32.76 ," $44,684.64 ",1870,0,Media
+2024-05,P016,Acido falico 5mg,Vitaminas,1159, $32.85 ," $38,073.15 ",1538,1,Media
+2024-06,P016,Acido falico 5mg,Vitaminas,1148, $32.95 ," $37,826.60 ",2188,0,Media
+2024-07,P016,Acido falico 5mg,Vitaminas,1383, $33.04 ," $45,694.32 ",2360,0,Media
+2024-08,P016,Acido falico 5mg,Vitaminas,1275, $33.13 ," $42,240.75 ",2118,0,Media
+2024-09,P016,Acido falico 5mg,Vitaminas,1188, $33.23 ," $39,477.24 ",1837,0,Media
+2024-10,P016,Acido falico 5mg,Vitaminas,1391, $33.32 ," $46,348.12 ",2677,0,Media
+2024-11,P016,Acido falico 5mg,Vitaminas,1344, $33.41 ," $44,903.04 ",2195,0,Media
+2024-12,P016,Acido falico 5mg,Vitaminas,1172, $33.51 ," $39,273.72 ",2008,0,Media
+2020-01,P017,Ketorolaco 10mg,Analgesico,621, $75.00 ," $46,575.00 ",1178,0,Media
+2020-02,P017,Ketorolaco 10mg,Analgesico,571, $75.25 ," $42,967.75 ",769,0,Media
+2020-03,P017,Ketorolaco 10mg,Analgesico,616, $75.50 ," $46,508.00 ",977,0,Media
+2020-04,P017,Ketorolaco 10mg,Analgesico,640, $75.75 ," $48,480.00 ",980,0,Media
+2020-05,P017,Ketorolaco 10mg,Analgesico,619, $76.00 ," $47,044.00 ",1088,0,Media
+2020-06,P017,Ketorolaco 10mg,Analgesico,649, $76.25 ," $49,486.25 ",1088,0,Media
+2020-07,P017,Ketorolaco 10mg,Analgesico,598, $76.50 ," $45,747.00 ",793,1,Media
+2020-08,P017,Ketorolaco 10mg,Analgesico,649, $76.75 ," $49,810.75 ",843,0,Media
+2020-09,P017,Ketorolaco 10mg,Analgesico,615, $77.00 ," $47,355.00 ",823,0,Media
+2020-10,P017,Ketorolaco 10mg,Analgesico,584, $77.25 ," $45,114.00 ",883,0,Media
+2020-11,P017,Ketorolaco 10mg,Analgesico,609, $77.50 ," $47,197.50 ",792,0,Media
+2020-12,P017,Ketorolaco 10mg,Analgesico,754, $77.75 ," $58,623.50 ",1098,0,Alta
+2021-01,P017,Ketorolaco 10mg,Analgesico,706, $78.00 ," $55,068.00 ",1337,0,Media
+2021-02,P017,Ketorolaco 10mg,Analgesico,625, $78.25 ," $48,906.25 ",954,0,Media
+2021-03,P017,Ketorolaco 10mg,Analgesico,681, $78.50 ," $53,458.50 ",971,0,Media
+2021-04,P017,Ketorolaco 10mg,Analgesico,668, $78.75 ," $52,605.00 ",1245,0,Media
+2021-05,P017,Ketorolaco 10mg,Analgesico,635, $79.00 ," $50,165.00 ",1000,0,Media
+2021-06,P017,Ketorolaco 10mg,Analgesico,636, $79.25 ," $50,403.00 ",861,0,Media
+2021-07,P017,Ketorolaco 10mg,Analgesico,658, $79.50 ," $52,311.00 ",932,0,Media
+2021-08,P017,Ketorolaco 10mg,Analgesico,641, $79.75 ," $51,119.75 ",1260,1,Media
+2021-09,P017,Ketorolaco 10mg,Analgesico,594, $80.00 ," $47,520.00 ",1022,0,Media
+2021-10,P017,Ketorolaco 10mg,Analgesico,677, $80.25 ," $54,329.25 ",1239,1,Media
+2021-11,P017,Ketorolaco 10mg,Analgesico,673, $80.50 ," $54,176.50 ",1114,0,Media
+2021-12,P017,Ketorolaco 10mg,Analgesico,770, $80.75 ," $62,177.50 ",1447,0,Alta
+2022-01,P017,Ketorolaco 10mg,Analgesico,722, $81.00 ," $58,482.00 ",1171,0,Media
+2022-02,P017,Ketorolaco 10mg,Analgesico,707, $81.25 ," $57,443.75 ",1279,0,Media
+2022-03,P017,Ketorolaco 10mg,Analgesico,616, $81.50 ," $50,204.00 ",1148,0,Media
+2022-04,P017,Ketorolaco 10mg,Analgesico,604, $81.75 ," $49,377.00 ",927,0,Media
+2022-05,P017,Ketorolaco 10mg,Analgesico,669, $82.00 ," $54,858.00 ",1198,0,Media
+2022-06,P017,Ketorolaco 10mg,Analgesico,640, $82.25 ," $52,640.00 ",1256,0,Media
+2022-07,P017,Ketorolaco 10mg,Analgesico,626, $82.50 ," $51,645.00 ",885,0,Media
+2022-08,P017,Ketorolaco 10mg,Analgesico,682, $82.75 ," $56,435.50 ",1070,1,Media
+2022-09,P017,Ketorolaco 10mg,Analgesico,700, $83.00 ," $58,100.00 ",915,0,Media
+2022-10,P017,Ketorolaco 10mg,Analgesico,737, $83.25 ," $61,355.25 ",1183,0,Media
+2022-11,P017,Ketorolaco 10mg,Analgesico,723, $83.50 ," $60,370.50 ",1353,0,Media
+2022-12,P017,Ketorolaco 10mg,Analgesico,798, $83.75 ," $66,832.50 ",1066,0,Alta
+2023-01,P017,Ketorolaco 10mg,Analgesico,743, $84.00 ," $62,412.00 ",1414,0,Media
+2023-02,P017,Ketorolaco 10mg,Analgesico,744, $84.25 ," $62,682.00 ",1255,0,Media
+2023-03,P017,Ketorolaco 10mg,Analgesico,610, $84.50 ," $51,545.00 ",1162,0,Media
+2023-04,P017,Ketorolaco 10mg,Analgesico,615, $84.75 ," $52,121.25 ",924,0,Media
+2023-05,P017,Ketorolaco 10mg,Analgesico,659, $85.00 ," $56,015.00 ",1224,0,Media
+2023-06,P017,Ketorolaco 10mg,Analgesico,667, $85.25 ," $56,861.75 ",1134,0,Media
+2023-07,P017,Ketorolaco 10mg,Analgesico,727, $85.50 ," $62,158.50 ",951,0,Media
+2023-08,P017,Ketorolaco 10mg,Analgesico,593, $85.75 ," $50,849.75 ",998,0,Media
+2023-09,P017,Ketorolaco 10mg,Analgesico,635, $86.00 ," $54,610.00 ",982,0,Media
+2023-10,P017,Ketorolaco 10mg,Analgesico,653, $86.25 ," $56,321.25 ",1183,0,Media
+2023-11,P017,Ketorolaco 10mg,Analgesico,635, $86.50 ," $54,927.50 ",1173,0,Media
+2023-12,P017,Ketorolaco 10mg,Analgesico,725, $86.75 ," $62,893.75 ",1290,0,Alta
+2024-01,P017,Ketorolaco 10mg,Analgesico,648, $87.00 ," $56,376.00 ",1012,0,Media
+2024-02,P017,Ketorolaco 10mg,Analgesico,738, $87.25 ," $64,390.50 ",1306,0,Media
+2024-03,P017,Ketorolaco 10mg,Analgesico,638, $87.50 ," $55,825.00 ",1016,0,Media
+2024-04,P017,Ketorolaco 10mg,Analgesico,599, $87.75 ," $52,562.25 ",895,0,Media
+2024-05,P017,Ketorolaco 10mg,Analgesico,640, $88.00 ," $56,320.00 ",1271,1,Media
+2024-06,P017,Ketorolaco 10mg,Analgesico,668, $88.25 ," $58,951.00 ",952,0,Media
+2024-07,P017,Ketorolaco 10mg,Analgesico,617, $88.50 ," $54,604.50 ",976,0,Media
+2024-08,P017,Ketorolaco 10mg,Analgesico,716, $88.75 ," $63,545.00 ",1142,0,Media
+2024-09,P017,Ketorolaco 10mg,Analgesico,667, $89.00 ," $59,363.00 ",990,0,Media
+2024-10,P017,Ketorolaco 10mg,Analgesico,696, $89.25 ," $62,118.00 ",1035,0,Media
+2024-11,P017,Ketorolaco 10mg,Analgesico,755, $89.50 ," $67,572.50 ",1493,0,Media
+2024-12,P017,Ketorolaco 10mg,Analgesico,680, $89.75 ," $61,030.00 ",919,0,Alta
+2020-01,P018,Ceftriaxona 1g,Antibiotico,342, $180.00 ," $61,560.00 ",466,0,Alta
+2020-02,P018,Ceftriaxona 1g,Antibiotico,356, $180.60 ," $64,293.60 ",624,0,Alta
+2020-03,P018,Ceftriaxona 1g,Antibiotico,279, $181.20 ," $50,554.80 ",551,0,Media
+2020-04,P018,Ceftriaxona 1g,Antibiotico,299, $181.80 ," $54,358.20 ",536,0,Baja
+2020-05,P018,Ceftriaxona 1g,Antibiotico,260, $182.40 ," $47,424.00 ",387,0,Baja
+2020-06,P018,Ceftriaxona 1g,Antibiotico,313, $183.00 ," $57,279.00 ",614,1,Baja
+2020-07,P018,Ceftriaxona 1g,Antibiotico,279, $183.60 ," $51,224.40 ",547,0,Media
+2020-08,P018,Ceftriaxona 1g,Antibiotico,333, $184.20 ," $61,338.60 ",480,0,Media
+2020-09,P018,Ceftriaxona 1g,Antibiotico,320, $184.80 ," $59,136.00 ",568,0,Media
+2020-10,P018,Ceftriaxona 1g,Antibiotico,284, $185.40 ," $52,653.60 ",485,0,Media
+2020-11,P018,Ceftriaxona 1g,Antibiotico,349, $186.00 ," $64,914.00 ",687,0,Alta
+2020-12,P018,Ceftriaxona 1g,Antibiotico,416, $186.60 ," $77,625.60 ",595,0,Alta
+2021-01,P018,Ceftriaxona 1g,Antibiotico,413, $187.20 ," $77,313.60 ",566,1,Alta
+2021-02,P018,Ceftriaxona 1g,Antibiotico,350, $187.80 ," $65,730.00 ",477,0,Alta
+2021-03,P018,Ceftriaxona 1g,Antibiotico,358, $188.40 ," $67,447.20 ",574,0,Media
+2021-04,P018,Ceftriaxona 1g,Antibiotico,291, $189.00 ," $54,999.00 ",525,1,Baja
+2021-05,P018,Ceftriaxona 1g,Antibiotico,286, $189.60 ," $54,225.60 ",494,0,Baja
+2021-06,P018,Ceftriaxona 1g,Antibiotico,278, $190.20 ," $52,875.60 ",500,1,Baja
+2021-07,P018,Ceftriaxona 1g,Antibiotico,290, $190.80 ," $55,332.00 ",555,0,Media
+2021-08,P018,Ceftriaxona 1g,Antibiotico,277, $191.40 ," $53,017.80 ",408,0,Media
+2021-09,P018,Ceftriaxona 1g,Antibiotico,297, $192.00 ," $57,024.00 ",437,1,Media
+2021-10,P018,Ceftriaxona 1g,Antibiotico,328, $192.60 ," $63,172.80 ",594,0,Media
+2021-11,P018,Ceftriaxona 1g,Antibiotico,379, $193.20 ," $73,222.80 ",514,0,Alta
+2021-12,P018,Ceftriaxona 1g,Antibiotico,428, $193.80 ," $82,946.40 ",797,0,Alta
+2022-01,P018,Ceftriaxona 1g,Antibiotico,421, $194.40 ," $81,842.40 ",707,0,Alta
+2022-02,P018,Ceftriaxona 1g,Antibiotico,376, $195.00 ," $73,320.00 ",684,0,Alta
+2022-03,P018,Ceftriaxona 1g,Antibiotico,337, $195.60 ," $65,917.20 ",454,0,Media
+2022-04,P018,Ceftriaxona 1g,Antibiotico,334, $196.20 ," $65,530.80 ",570,0,Baja
+2022-05,P018,Ceftriaxona 1g,Antibiotico,272, $196.80 ," $53,529.60 ",423,0,Baja
+2022-06,P018,Ceftriaxona 1g,Antibiotico,317, $197.40 ," $62,575.80 ",586,0,Baja
+2022-07,P018,Ceftriaxona 1g,Antibiotico,332, $198.00 ," $65,736.00 ",489,0,Media
+2022-08,P018,Ceftriaxona 1g,Antibiotico,317, $198.60 ," $62,956.20 ",510,0,Media
+2022-09,P018,Ceftriaxona 1g,Antibiotico,357, $199.20 ," $71,114.40 ",480,0,Media
+2022-10,P018,Ceftriaxona 1g,Antibiotico,323, $199.80 ," $64,535.40 ",520,1,Media
+2022-11,P018,Ceftriaxona 1g,Antibiotico,356, $200.40 ," $71,342.40 ",588,1,Alta
+2022-12,P018,Ceftriaxona 1g,Antibiotico,406, $201.00 ," $81,606.00 ",791,1,Alta
+2023-01,P018,Ceftriaxona 1g,Antibiotico,417, $201.60 ," $84,067.20 ",661,0,Alta
+2023-02,P018,Ceftriaxona 1g,Antibiotico,355, $202.20 ," $71,781.00 ",501,0,Alta
+2023-03,P018,Ceftriaxona 1g,Antibiotico,309, $202.80 ," $62,665.20 ",441,0,Media
+2023-04,P018,Ceftriaxona 1g,Antibiotico,341, $203.40 ," $69,359.40 ",637,0,Baja
+2023-05,P018,Ceftriaxona 1g,Antibiotico,269, $204.00 ," $54,876.00 ",404,0,Baja
+2023-06,P018,Ceftriaxona 1g,Antibiotico,295, $204.60 ," $60,357.00 ",489,0,Baja
+2023-07,P018,Ceftriaxona 1g,Antibiotico,320, $205.20 ," $65,664.00 ",495,0,Media
+2023-08,P018,Ceftriaxona 1g,Antibiotico,355, $205.80 ," $73,059.00 ",537,0,Media
+2023-09,P018,Ceftriaxona 1g,Antibiotico,369, $206.40 ," $76,161.60 ",564,0,Media
+2023-10,P018,Ceftriaxona 1g,Antibiotico,350, $207.00 ," $72,450.00 ",685,0,Media
+2023-11,P018,Ceftriaxona 1g,Antibiotico,347, $207.60 ," $72,037.20 ",546,0,Alta
+2023-12,P018,Ceftriaxona 1g,Antibiotico,419, $208.20 ," $87,235.80 ",601,0,Alta
+2024-01,P018,Ceftriaxona 1g,Antibiotico,420, $208.80 ," $87,696.00 ",792,0,Alta
+2024-02,P018,Ceftriaxona 1g,Antibiotico,410, $209.40 ," $85,854.00 ",659,0,Alta
+2024-03,P018,Ceftriaxona 1g,Antibiotico,325, $210.00 ," $68,250.00 ",575,0,Media
+2024-04,P018,Ceftriaxona 1g,Antibiotico,336, $210.60 ," $70,761.60 ",490,1,Baja
+2024-05,P018,Ceftriaxona 1g,Antibiotico,280, $211.20 ," $59,136.00 ",364,0,Baja
+2024-06,P018,Ceftriaxona 1g,Antibiotico,340, $211.80 ," $72,012.00 ",564,0,Baja
+2024-07,P018,Ceftriaxona 1g,Antibiotico,306, $212.40 ," $64,994.40 ",401,0,Media
+2024-08,P018,Ceftriaxona 1g,Antibiotico,373, $213.00 ," $79,449.00 ",547,0,Media
+2024-09,P018,Ceftriaxona 1g,Antibiotico,309, $213.60 ," $66,002.40 ",449,0,Media
+2024-10,P018,Ceftriaxona 1g,Antibiotico,369, $214.20 ," $79,039.80 ",543,1,Media
+2024-11,P018,Ceftriaxona 1g,Antibiotico,384, $214.80 ," $82,483.20 ",562,0,Alta
+2024-12,P018,Ceftriaxona 1g,Antibiotico,477, $215.40 ," $102,745.80 ",825,0,Alta
+2020-01,P019,Glibenclamida 5mg,Cronico,685, $45.00 ," $30,825.00 ",1096,0,Media
+2020-02,P019,Glibenclamida 5mg,Cronico,734, $45.15 ," $33,140.10 ",1314,0,Media
+2020-03,P019,Glibenclamida 5mg,Cronico,703, $45.30 ," $31,845.90 ",1116,0,Media
+2020-04,P019,Glibenclamida 5mg,Cronico,727, $45.45 ," $33,042.15 ",1216,1,Media
+2020-05,P019,Glibenclamida 5mg,Cronico,724, $45.60 ," $33,014.40 ",1000,0,Media
+2020-06,P019,Glibenclamida 5mg,Cronico,647, $45.75 ," $29,600.25 ",1154,0,Media
+2020-07,P019,Glibenclamida 5mg,Cronico,692, $45.90 ," $31,762.80 ",1333,0,Media
+2020-08,P019,Glibenclamida 5mg,Cronico,713, $46.05 ," $32,833.65 ",1136,1,Media
+2020-09,P019,Glibenclamida 5mg,Cronico,764, $46.20 ," $35,296.80 ",1030,0,Media
+2020-10,P019,Glibenclamida 5mg,Cronico,726, $46.35 ," $33,650.10 ",1263,0,Media
+2020-11,P019,Glibenclamida 5mg,Cronico,675, $46.50 ," $31,387.50 ",882,0,Media
+2020-12,P019,Glibenclamida 5mg,Cronico,725, $46.65 ," $33,821.25 ",1366,0,Media
+2021-01,P019,Glibenclamida 5mg,Cronico,780, $46.80 ," $36,504.00 ",1278,0,Media
+2021-02,P019,Glibenclamida 5mg,Cronico,773, $46.95 ," $36,292.35 ",1249,0,Media
+2021-03,P019,Glibenclamida 5mg,Cronico,786, $47.10 ," $37,020.60 ",1507,0,Media
+2021-04,P019,Glibenclamida 5mg,Cronico,652, $47.25 ," $30,807.00 ",1024,0,Media
+2021-05,P019,Glibenclamida 5mg,Cronico,798, $47.40 ," $37,825.20 ",1151,1,Media
+2021-06,P019,Glibenclamida 5mg,Cronico,795, $47.55 ," $37,802.25 ",1250,0,Media
+2021-07,P019,Glibenclamida 5mg,Cronico,813, $47.70 ," $38,780.10 ",1094,0,Media
+2021-08,P019,Glibenclamida 5mg,Cronico,658, $47.85 ," $31,485.30 ",1028,0,Media
+2021-09,P019,Glibenclamida 5mg,Cronico,723, $48.00 ," $34,704.00 ",1444,0,Media
+2021-10,P019,Glibenclamida 5mg,Cronico,705, $48.15 ," $33,945.75 ",1025,0,Media
+2021-11,P019,Glibenclamida 5mg,Cronico,715, $48.30 ," $34,534.50 ",963,0,Media
+2021-12,P019,Glibenclamida 5mg,Cronico,733, $48.45 ," $35,513.85 ",1323,0,Media
+2022-01,P019,Glibenclamida 5mg,Cronico,779, $48.60 ," $37,859.40 ",1017,0,Media
+2022-02,P019,Glibenclamida 5mg,Cronico,772, $48.75 ," $37,635.00 ",1265,1,Media
+2022-03,P019,Glibenclamida 5mg,Cronico,799, $48.90 ," $39,071.10 ",1470,0,Media
+2022-04,P019,Glibenclamida 5mg,Cronico,669, $49.05 ," $32,814.45 ",1228,0,Media
+2022-05,P019,Glibenclamida 5mg,Cronico,799, $49.20 ," $39,310.80 ",1459,0,Media
+2022-06,P019,Glibenclamida 5mg,Cronico,753, $49.35 ," $37,160.55 ",1052,0,Media
+2022-07,P019,Glibenclamida 5mg,Cronico,774, $49.50 ," $38,313.00 ",1408,0,Media
+2022-08,P019,Glibenclamida 5mg,Cronico,699, $49.65 ," $34,705.35 ",1344,0,Media
+2022-09,P019,Glibenclamida 5mg,Cronico,830, $49.80 ," $41,334.00 ",1519,0,Media
+2022-10,P019,Glibenclamida 5mg,Cronico,785, $49.95 ," $39,210.75 ",1509,0,Media
+2022-11,P019,Glibenclamida 5mg,Cronico,783, $50.10 ," $39,228.30 ",1103,0,Media
+2022-12,P019,Glibenclamida 5mg,Cronico,800, $50.25 ," $40,200.00 ",1191,0,Media
+2023-01,P019,Glibenclamida 5mg,Cronico,728, $50.40 ," $36,691.20 ",1069,0,Media
+2023-02,P019,Glibenclamida 5mg,Cronico,750, $50.55 ," $37,912.50 ",1451,0,Media
+2023-03,P019,Glibenclamida 5mg,Cronico,709, $50.70 ," $35,946.30 ",959,0,Media
+2023-04,P019,Glibenclamida 5mg,Cronico,746, $50.85 ," $37,934.10 ",1398,0,Media
+2023-05,P019,Glibenclamida 5mg,Cronico,824, $51.00 ," $42,024.00 ",1228,0,Media
+2023-06,P019,Glibenclamida 5mg,Cronico,728, $51.15 ," $37,237.20 ",1424,0,Media
+2023-07,P019,Glibenclamida 5mg,Cronico,740, $51.30 ," $37,962.00 ",1101,0,Media
+2023-08,P019,Glibenclamida 5mg,Cronico,811, $51.45 ," $41,725.95 ",1178,0,Media
+2023-09,P019,Glibenclamida 5mg,Cronico,733, $51.60 ," $37,822.80 ",1292,0,Media
+2023-10,P019,Glibenclamida 5mg,Cronico,830, $51.75 ," $42,952.50 ",1521,0,Media
+2023-11,P019,Glibenclamida 5mg,Cronico,703, $51.90 ," $36,485.70 ",1257,0,Media
+2023-12,P019,Glibenclamida 5mg,Cronico,769, $52.05 ," $40,026.45 ",1016,0,Media
+2024-01,P019,Glibenclamida 5mg,Cronico,696, $52.20 ," $36,331.20 ",1333,0,Media
+2024-02,P019,Glibenclamida 5mg,Cronico,796, $52.35 ," $41,670.60 ",1056,0,Media
+2024-03,P019,Glibenclamida 5mg,Cronico,754, $52.50 ," $39,585.00 ",1454,0,Media
+2024-04,P019,Glibenclamida 5mg,Cronico,756, $52.65 ," $39,803.40 ",1459,0,Media
+2024-05,P019,Glibenclamida 5mg,Cronico,852, $52.80 ," $44,985.60 ",1611,0,Media
+2024-06,P019,Glibenclamida 5mg,Cronico,807, $52.95 ," $42,730.65 ",1087,1,Media
+2024-07,P019,Glibenclamida 5mg,Cronico,889, $53.10 ," $47,205.90 ",1358,0,Media
+2024-08,P019,Glibenclamida 5mg,Cronico,854, $53.25 ," $45,475.50 ",1623,0,Media
+2024-09,P019,Glibenclamida 5mg,Cronico,748, $53.40 ," $39,943.20 ",993,0,Media
+2024-10,P019,Glibenclamida 5mg,Cronico,728, $53.55 ," $38,984.40 ",957,0,Media
+2024-11,P019,Glibenclamida 5mg,Cronico,856, $53.70 ," $45,967.20 ",1452,0,Media
+2024-12,P019,Glibenclamida 5mg,Cronico,833, $53.85 ," $44,857.05 ",1218,1,Media
+2020-01,P020,Diclofenaco tabletas,Antiinflamatorio,861, $50.00 ," $43,050.00 ",1495,0,Media
+2020-02,P020,Diclofenaco tabletas,Antiinflamatorio,708, $50.17 ," $35,520.36 ",1335,0,Media
+2020-03,P020,Diclofenaco tabletas,Antiinflamatorio,780, $50.33 ," $39,257.40 ",1355,0,Media
+2020-04,P020,Diclofenaco tabletas,Antiinflamatorio,755, $50.50 ," $38,127.50 ",1288,0,Media
+2020-05,P020,Diclofenaco tabletas,Antiinflamatorio,772, $50.67 ," $39,117.24 ",1242,0,Media
+2020-06,P020,Diclofenaco tabletas,Antiinflamatorio,724, $50.83 ," $36,800.92 ",1057,0,Media
+2020-07,P020,Diclofenaco tabletas,Antiinflamatorio,839, $51.00 ," $42,789.00 ",1636,0,Media
+2020-08,P020,Diclofenaco tabletas,Antiinflamatorio,768, $51.17 ," $39,298.56 ",1112,0,Media
+2020-09,P020,Diclofenaco tabletas,Antiinflamatorio,853, $51.33 ," $43,784.49 ",1496,0,Media
+2020-10,P020,Diclofenaco tabletas,Antiinflamatorio,822, $51.50 ," $42,333.00 ",1409,1,Media
+2020-11,P020,Diclofenaco tabletas,Antiinflamatorio,806, $51.67 ," $41,646.02 ",1428,0,Media
+2020-12,P020,Diclofenaco tabletas,Antiinflamatorio,821, $51.83 ," $42,552.43 ",1608,0,Alta
+2021-01,P020,Diclofenaco tabletas,Antiinflamatorio,834, $52.00 ," $43,368.00 ",1487,0,Media
+2021-02,P020,Diclofenaco tabletas,Antiinflamatorio,850, $52.17 ," $44,344.50 ",1268,0,Media
+2021-03,P020,Diclofenaco tabletas,Antiinflamatorio,817, $52.33 ," $42,753.61 ",1404,0,Media
+2021-04,P020,Diclofenaco tabletas,Antiinflamatorio,800, $52.50 ," $42,000.00 ",1294,0,Media
+2021-05,P020,Diclofenaco tabletas,Antiinflamatorio,809, $52.67 ," $42,610.03 ",1147,1,Media
+2021-06,P020,Diclofenaco tabletas,Antiinflamatorio,817, $52.83 ," $43,162.11 ",1410,0,Media
+2021-07,P020,Diclofenaco tabletas,Antiinflamatorio,847, $53.00 ," $44,891.00 ",1577,0,Media
+2021-08,P020,Diclofenaco tabletas,Antiinflamatorio,792, $53.17 ," $42,110.64 ",1300,0,Media
+2021-09,P020,Diclofenaco tabletas,Antiinflamatorio,722, $53.33 ," $38,504.26 ",1227,0,Media
+2021-10,P020,Diclofenaco tabletas,Antiinflamatorio,886, $53.50 ," $47,401.00 ",1513,0,Media
+2021-11,P020,Diclofenaco tabletas,Antiinflamatorio,809, $53.67 ," $43,419.03 ",1081,1,Media
+2021-12,P020,Diclofenaco tabletas,Antiinflamatorio,856, $53.83 ," $46,078.48 ",1163,0,Alta
+2022-01,P020,Diclofenaco tabletas,Antiinflamatorio,937, $54.00 ," $50,598.00 ",1797,0,Media
+2022-02,P020,Diclofenaco tabletas,Antiinflamatorio,786, $54.17 ," $42,577.62 ",1496,0,Media
+2022-03,P020,Diclofenaco tabletas,Antiinflamatorio,755, $54.33 ," $41,019.15 ",1371,0,Media
+2022-04,P020,Diclofenaco tabletas,Antiinflamatorio,841, $54.50 ," $45,834.50 ",1680,1,Media
+2022-05,P020,Diclofenaco tabletas,Antiinflamatorio,843, $54.67 ," $46,086.81 ",1463,0,Media
+2022-06,P020,Diclofenaco tabletas,Antiinflamatorio,781, $54.83 ," $42,822.23 ",1478,1,Media
+2022-07,P020,Diclofenaco tabletas,Antiinflamatorio,774, $55.00 ," $42,570.00 ",1042,0,Media
+2022-08,P020,Diclofenaco tabletas,Antiinflamatorio,869, $55.17 ," $47,942.73 ",1648,0,Media
+2022-09,P020,Diclofenaco tabletas,Antiinflamatorio,729, $55.33 ," $40,335.57 ",1144,1,Media
+2022-10,P020,Diclofenaco tabletas,Antiinflamatorio,770, $55.50 ," $42,735.00 ",1124,0,Media
+2022-11,P020,Diclofenaco tabletas,Antiinflamatorio,814, $55.67 ," $45,315.38 ",1115,0,Media
+2022-12,P020,Diclofenaco tabletas,Antiinflamatorio,821, $55.83 ," $45,836.43 ",1626,0,Alta
+2023-01,P020,Diclofenaco tabletas,Antiinflamatorio,982, $56.00 ," $54,992.00 ",1578,0,Media
+2023-02,P020,Diclofenaco tabletas,Antiinflamatorio,930, $56.17 ," $52,238.10 ",1421,0,Media
+2023-03,P020,Diclofenaco tabletas,Antiinflamatorio,783, $56.33 ," $44,106.39 ",1088,0,Media
+2023-04,P020,Diclofenaco tabletas,Antiinflamatorio,778, $56.50 ," $43,957.00 ",1378,1,Media
+2023-05,P020,Diclofenaco tabletas,Antiinflamatorio,736, $56.67 ," $41,709.12 ",1373,1,Media
+2023-06,P020,Diclofenaco tabletas,Antiinflamatorio,779, $56.83 ," $44,270.57 ",1484,0,Media
+2023-07,P020,Diclofenaco tabletas,Antiinflamatorio,745, $57.00 ," $42,465.00 ",1221,0,Media
+2023-08,P020,Diclofenaco tabletas,Antiinflamatorio,843, $57.17 ," $48,194.31 ",1570,1,Media
+2023-09,P020,Diclofenaco tabletas,Antiinflamatorio,848, $57.33 ," $48,615.84 ",1402,1,Media
+2023-10,P020,Diclofenaco tabletas,Antiinflamatorio,876, $57.50 ," $50,370.00 ",1306,0,Media
+2023-11,P020,Diclofenaco tabletas,Antiinflamatorio,797, $57.67 ," $45,962.99 ",1292,0,Media
+2023-12,P020,Diclofenaco tabletas,Antiinflamatorio,993, $57.83 ," $57,425.19 ",1330,0,Alta
+2024-01,P020,Diclofenaco tabletas,Antiinflamatorio,898, $58.00 ," $52,084.00 ",1623,0,Media
+2024-02,P020,Diclofenaco tabletas,Antiinflamatorio,928, $58.17 ," $53,981.76 ",1711,0,Media
+2024-03,P020,Diclofenaco tabletas,Antiinflamatorio,822, $58.33 ," $47,947.26 ",1378,0,Media
+2024-04,P020,Diclofenaco tabletas,Antiinflamatorio,926, $58.50 ," $54,171.00 ",1780,0,Media
+2024-05,P020,Diclofenaco tabletas,Antiinflamatorio,754, $58.67 ," $44,237.18 ",1238,0,Media
+2024-06,P020,Diclofenaco tabletas,Antiinflamatorio,830, $58.83 ," $48,828.90 ",1359,0,Media
+2024-07,P020,Diclofenaco tabletas,Antiinflamatorio,822, $59.00 ," $48,498.00 ",1563,0,Media
+2024-08,P020,Diclofenaco tabletas,Antiinflamatorio,817, $59.17 ," $48,341.89 ",1321,0,Media
+2024-09,P020,Diclofenaco tabletas,Antiinflamatorio,778, $59.33 ," $46,158.74 ",1118,0,Media
+2024-10,P020,Diclofenaco tabletas,Antiinflamatorio,805, $59.50 ," $47,897.50 ",1366,0,Media
+2024-11,P020,Diclofenaco tabletas,Antiinflamatorio,908, $59.67 ," $54,180.36 ",1590,0,Media
+2024-12,P020,Diclofenaco tabletas,Antiinflamatorio,958, $59.83 ," $57,317.14 ",1494,0,Alta
